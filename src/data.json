@@ -402,6 +402,19 @@
     ]
   },
   {
+    "pokedex": 52,
+    "name": "Galarian Meowth",
+    "maxCP": 1170,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Galarian Meowth",
+      "Perrserker"
+    ]
+  },
+  {
     "pokedex": 56,
     "name": "Mankey",
     "maxCP": 1317,
@@ -1012,6 +1025,48 @@
       "Dragonite",
       "Shadow Dratini",
       "Shadow Dragonair"
+    ]
+  },
+  {
+    "pokedex": 158,
+    "name": "Totodile",
+    "maxCP": 1279,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Totodile",
+      "Croconaw",
+      "Feraligatr"
+    ]
+  },
+  {
+    "pokedex": 159,
+    "name": "Croconaw",
+    "maxCP": 1947,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Totodile",
+      "Croconaw",
+      "Feraligatr"
+    ]
+  },
+  {
+    "pokedex": 160,
+    "name": "Feraligatr",
+    "maxCP": 3230,
+    "gl": 5,
+    "ul": 5,
+    "ml": 3,
+    "tier": "B",
+    "related": [
+      "Totodile",
+      "Croconaw",
+      "Feraligatr"
     ]
   },
   {
@@ -1852,6 +1907,33 @@
     ]
   },
   {
+    "pokedex": 345,
+    "name": "Shadow Lileep",
+    "maxCP": 1460,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Shadow Lileep",
+      "Shadow Cradily"
+    ]
+  },
+  {
+    "pokedex": 346,
+    "name": "Shadow Cradily",
+    "maxCP": 2499,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "missing": true,
+    "related": [
+      "Shadow Lileep",
+      "Shadow Cradily"
+    ]
+  },
+  {
     "pokedex": 351,
     "name": "Castform",
     "maxCP": 1845,
@@ -2013,6 +2095,32 @@
       "Buneary",
       "Lopunny",
       "Mega Lopunny"
+    ]
+  },
+  {
+    "pokedex": 434,
+    "name": "Shadow Stunky",
+    "maxCP": 1301,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Shadow Stunky",
+      "Shadow Skuntank"
+    ]
+  },
+  {
+    "pokedex": 435,
+    "name": "Shadow Skuntank",
+    "maxCP": 2666,
+    "gl": 3.5,
+    "ul": 3.5,
+    "ml": null,
+    "tier": "B",
+    "related": [
+      "Shadow Stunky",
+      "Shadow Skuntank"
     ]
   },
   {
@@ -2567,6 +2675,18 @@
     ]
   },
   {
+    "pokedex": 618,
+    "name": "Stunfisk",
+    "maxCP": 2445,
+    "gl": 3.5,
+    "ul": 3,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Stunfisk"
+    ]
+  },
+  {
     "pokedex": 632,
     "name": "Durant",
     "maxCP": 3007,
@@ -2577,6 +2697,19 @@
     "iv": 84.0,
     "related": [
       "Durant"
+    ]
+  },
+  {
+    "pokedex": 638,
+    "name": "Cobalion",
+    "maxCP": 3417,
+    "gl": 3,
+    "ul": 2,
+    "ml": null,
+    "tier": "C",
+    "iv": 82.0,
+    "related": [
+      "Cobalion"
     ]
   },
   {
@@ -2623,6 +2756,18 @@
     ]
   },
   {
+    "pokedex": 676,
+    "name": "Furfrou",
+    "maxCP": 2387,
+    "gl": 2,
+    "ul": 1,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Furfrou"
+    ]
+  },
+  {
     "pokedex": 700,
     "name": "Sylveon",
     "maxCP": 3470,
@@ -2640,6 +2785,31 @@
       "Leafeon",
       "Glaceon",
       "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 702,
+    "name": "Dedenne",
+    "maxCP": 2081,
+    "gl": 3,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Dedenne"
+    ]
+  },
+  {
+    "pokedex": 703,
+    "name": "Carbink",
+    "maxCP": 1658,
+    "gl": 5,
+    "ul": 1,
+    "ml": null,
+    "tier": null,
+    "iv": 80.0,
+    "related": [
+      "Carbink"
     ]
   },
   {
@@ -2682,6 +2852,95 @@
       "Popplio",
       "Brionne",
       "Primarina"
+    ]
+  },
+  {
+    "pokedex": 741,
+    "name": "Oricorio",
+    "maxCP": 2638,
+    "gl": 1,
+    "ul": 1,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Oricorio"
+    ]
+  },
+  {
+    "pokedex": 755,
+    "name": "Morelull",
+    "maxCP": 1168,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Morelull",
+      "Shiinotic"
+    ]
+  },
+  {
+    "pokedex": 756,
+    "name": "Shiinotic",
+    "maxCP": 2104,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Morelull",
+      "Shiinotic"
+    ]
+  },
+  {
+    "pokedex": 777,
+    "name": "Togedemaru",
+    "maxCP": 2442,
+    "gl": 3.5,
+    "ul": 3,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Togedemaru"
+    ]
+  },
+  {
+    "pokedex": 819,
+    "name": "Skwovet",
+    "maxCP": 1067,
+    "gl": null,
+    "ul": null,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Skwovet",
+      "Greedent"
+    ]
+  },
+  {
+    "pokedex": 820,
+    "name": "Greedent",
+    "maxCP": 2679,
+    "gl": 4,
+    "ul": 3,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Skwovet",
+      "Greedent"
+    ]
+  },
+  {
+    "pokedex": 863,
+    "name": "Perrserker",
+    "maxCP": 2697,
+    "gl": 3,
+    "ul": 2.5,
+    "ml": null,
+    "tier": null,
+    "related": [
+      "Galarian Meowth",
+      "Perrserker"
     ]
   },
   {
