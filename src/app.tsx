@@ -1,6 +1,6 @@
 import { clsx } from 'clsx'
 import { useEffect, useRef, useState } from 'react'
-import data from './data.json'
+import data from '../data.json'
 
 export function App() {
   const inputRef = useRef<HTMLInputElement>(null)

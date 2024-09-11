@@ -47,6 +47,36 @@
     ]
   },
   {
+    "pokedex": 10,
+    "name": "Caterpie",
+    "maxCP": 494,
+    "related": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree"
+    ]
+  },
+  {
+    "pokedex": 11,
+    "name": "Metapod",
+    "maxCP": 509,
+    "related": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree"
+    ]
+  },
+  {
+    "pokedex": 12,
+    "name": "Butterfree",
+    "maxCP": 1827,
+    "related": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree"
+    ]
+  },
+  {
     "pokedex": 16,
     "name": "Pidgey",
     "maxCP": 769,
@@ -176,6 +206,36 @@
     "updatedAt": 1726064206673
   },
   {
+    "pokedex": 29,
+    "name": "Nidoran♀",
+    "maxCP": 922,
+    "related": [
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ]
+  },
+  {
+    "pokedex": 30,
+    "name": "Nidorina",
+    "maxCP": 1480,
+    "related": [
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ]
+  },
+  {
+    "pokedex": 31,
+    "name": "Nidoqueen",
+    "maxCP": 2488,
+    "related": [
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ]
+  },
+  {
     "pokedex": 39,
     "name": "Jigglypuff",
     "maxCP": 818,
@@ -206,7 +266,10 @@
     "related": [
       "Zubat",
       "Golbat",
-      "Crobat"
+      "Crobat",
+      "Shadow Zubat",
+      "Shadow Golbat",
+      "Shadow Crobat"
     ]
   },
   {
@@ -222,6 +285,32 @@
       "Crobat"
     ],
     "updatedAt": 1726064208912
+  },
+  {
+    "pokedex": 41,
+    "name": "Shadow Zubat",
+    "maxCP": 754,
+    "related": [
+      "Zubat",
+      "Golbat",
+      "Crobat",
+      "Shadow Zubat",
+      "Shadow Golbat",
+      "Shadow Crobat"
+    ]
+  },
+  {
+    "pokedex": 42,
+    "name": "Shadow Golbat",
+    "maxCP": 1976,
+    "related": [
+      "Zubat",
+      "Golbat",
+      "Crobat",
+      "Shadow Zubat",
+      "Shadow Golbat",
+      "Shadow Crobat"
+    ]
   },
   {
     "pokedex": 43,
@@ -909,9 +998,25 @@
     "related": [
       "Zubat",
       "Golbat",
-      "Crobat"
+      "Crobat",
+      "Shadow Zubat",
+      "Shadow Golbat",
+      "Shadow Crobat"
     ],
     "updatedAt": 1726064245168
+  },
+  {
+    "pokedex": 169,
+    "name": "Shadow Crobat",
+    "maxCP": 2992,
+    "related": [
+      "Zubat",
+      "Golbat",
+      "Crobat",
+      "Shadow Zubat",
+      "Shadow Golbat",
+      "Shadow Crobat"
+    ]
   },
   {
     "pokedex": 174,
