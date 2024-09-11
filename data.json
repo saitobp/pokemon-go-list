@@ -1,0 +1,2336 @@
+[
+  {
+    "pokedex": 1,
+    "name": "Bulbasaur",
+    "maxCP": 1260,
+    "related": [
+      "Bulbasaur",
+      "Ivysaur",
+      "Venusaur"
+    ]
+  },
+  {
+    "pokedex": 2,
+    "name": "Ivysaur",
+    "maxCP": 1921,
+    "gl": 3.5,
+    "related": [
+      "Bulbasaur",
+      "Ivysaur",
+      "Venusaur"
+    ]
+  },
+  {
+    "pokedex": 3,
+    "name": "Venusaur",
+    "maxCP": 2720,
+    "ul": 3.5,
+    "ml": 2,
+    "tier": "B+",
+    "related": [
+      "Bulbasaur",
+      "Ivysaur",
+      "Venusaur"
+    ],
+    "gl": 4
+  },
+  {
+    "pokedex": 4,
+    "name": "Charmander",
+    "maxCP": 1108,
+    "related": [
+      "Charmander",
+      "Charmeleon",
+      "Charizard"
+    ]
+  },
+  {
+    "pokedex": 16,
+    "name": "Pidgey",
+    "maxCP": 769,
+    "related": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot",
+      "Mega Pidgeot"
+    ]
+  },
+  {
+    "pokedex": 17,
+    "name": "Pidgeotto",
+    "maxCP": 1350,
+    "related": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot",
+      "Mega Pidgeot"
+    ]
+  },
+  {
+    "pokedex": 18,
+    "name": "Pidgeot",
+    "maxCP": 2407,
+    "gl": 3,
+    "ul": 3.5,
+    "iv": 75,
+    "related": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot",
+      "Mega Pidgeot"
+    ]
+  },
+  {
+    "pokedex": 18,
+    "name": "Mega Pidgeot",
+    "maxCP": 4160,
+    "tier": "A",
+    "related": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot",
+      "Mega Pidgeot"
+    ]
+  },
+  {
+    "pokedex": 19,
+    "name": "Rattata",
+    "maxCP": 830,
+    "related": [
+      "Rattata",
+      "Raticate"
+    ]
+  },
+  {
+    "pokedex": 20,
+    "name": "Raticate",
+    "maxCP": 1956,
+    "related": [
+      "Rattata",
+      "Raticate"
+    ]
+  },
+  {
+    "pokedex": 21,
+    "name": "Spearow",
+    "maxCP": 902,
+    "related": [
+      "Spearow",
+      "Fearow"
+    ]
+  },
+  {
+    "pokedex": 22,
+    "name": "Fearow",
+    "maxCP": 2257,
+    "gl": 1,
+    "related": [
+      "Spearow",
+      "Fearow"
+    ]
+  },
+  {
+    "pokedex": 23,
+    "name": "Ekans",
+    "maxCP": 1048,
+    "related": [
+      "Ekans",
+      "Arbok"
+    ]
+  },
+  {
+    "pokedex": 24,
+    "name": "Arbok",
+    "maxCP": 2171,
+    "related": [
+      "Ekans",
+      "Arbok"
+    ]
+  },
+  {
+    "pokedex": 27,
+    "name": "Sandshrew",
+    "maxCP": 1426,
+    "gl": 1,
+    "related": [
+      "Sandshrew",
+      "Sandslash"
+    ]
+  },
+  {
+    "pokedex": 28,
+    "name": "Sandslash",
+    "maxCP": 2684,
+    "gl": 1,
+    "ul": 1,
+    "related": [
+      "Sandshrew",
+      "Sandslash"
+    ]
+  },
+  {
+    "pokedex": 39,
+    "name": "Jigglypuff",
+    "maxCP": 818,
+    "related": [
+      "Jigglypuff",
+      "Wigglytuff",
+      "Igglybuff"
+    ]
+  },
+  {
+    "pokedex": 40,
+    "name": "Wigglytuff",
+    "maxCP": 2178,
+    "gl": 4.5,
+    "ul": 3,
+    "iv": 82,
+    "related": [
+      "Jigglypuff",
+      "Wigglytuff",
+      "Igglybuff"
+    ]
+  },
+  {
+    "pokedex": 41,
+    "name": "Zubat",
+    "maxCP": 754,
+    "related": [
+      "Zubat",
+      "Golbat",
+      "Crobat"
+    ]
+  },
+  {
+    "pokedex": 42,
+    "name": "Golbat",
+    "maxCP": 1976,
+    "gl": 2.5,
+    "ul": 1,
+    "iv": 80,
+    "related": [
+      "Zubat",
+      "Golbat",
+      "Crobat"
+    ]
+  },
+  {
+    "pokedex": 43,
+    "name": "Oddish",
+    "maxCP": 1389,
+    "related": [
+      "Oddish",
+      "Gloom",
+      "Vileplume",
+      "Bellossom"
+    ]
+  },
+  {
+    "pokedex": 44,
+    "name": "Gloom",
+    "maxCP": 1900,
+    "gl": 2,
+    "related": [
+      "Oddish",
+      "Gloom",
+      "Vileplume",
+      "Bellossom"
+    ]
+  },
+  {
+    "pokedex": 45,
+    "name": "Vileplume",
+    "maxCP": 2893,
+    "gl": 2,
+    "ul": 1,
+    "related": [
+      "Oddish",
+      "Gloom",
+      "Vileplume",
+      "Bellossom"
+    ]
+  },
+  {
+    "pokedex": 46,
+    "name": "Paras",
+    "maxCP": 1150,
+    "related": [
+      "Paras",
+      "Parasect"
+    ]
+  },
+  {
+    "pokedex": 47,
+    "name": "Parasect",
+    "maxCP": 2102,
+    "related": [
+      "Paras",
+      "Parasect"
+    ]
+  },
+  {
+    "pokedex": 48,
+    "name": "Venonat",
+    "maxCP": 1135,
+    "related": [
+      "Venonat",
+      "Venomoth"
+    ]
+  },
+  {
+    "pokedex": 49,
+    "name": "Venomoth",
+    "maxCP": 2354,
+    "gl": 1,
+    "related": [
+      "Venonat",
+      "Venomoth"
+    ]
+  },
+  {
+    "pokedex": 52,
+    "name": "Meowth",
+    "maxCP": 846,
+    "related": [
+      "Meowth",
+      "Persian"
+    ]
+  },
+  {
+    "pokedex": 53,
+    "name": "Persian",
+    "maxCP": 1910,
+    "gl": 1,
+    "ul": 1,
+    "related": [
+      "Meowth",
+      "Persian"
+    ]
+  },
+  {
+    "pokedex": 52,
+    "name": "Galarian Meowth",
+    "maxCP": 1170,
+    "related": [
+      "Galarian Meowth",
+      "Perrserker"
+    ]
+  },
+  {
+    "pokedex": 56,
+    "name": "Mankey",
+    "maxCP": 1317,
+    "related": [
+      "Mankey",
+      "Primeape",
+      "Annihilape"
+    ]
+  },
+  {
+    "pokedex": 57,
+    "name": "Primeape",
+    "maxCP": 2293,
+    "gl": 3.5,
+    "ul": 3,
+    "iv": 91,
+    "related": [
+      "Mankey",
+      "Primeape",
+      "Annihilape"
+    ]
+  },
+  {
+    "pokedex": 58,
+    "name": "Growlithe",
+    "maxCP": 1405,
+    "related": [
+      "Growlithe",
+      "Arcanine"
+    ]
+  },
+  {
+    "pokedex": 59,
+    "name": "Arcanine",
+    "maxCP": 3425,
+    "gl": 1.5,
+    "ul": 1.5,
+    "missing": false,
+    "iv": 91,
+    "related": [
+      "Growlithe",
+      "Arcanine"
+    ]
+  },
+  {
+    "pokedex": 63,
+    "name": "Abra",
+    "maxCP": 1517,
+    "related": [
+      "Abra",
+      "Kadabra",
+      "Alakazam",
+      "Mega Alakazam"
+    ]
+  },
+  {
+    "pokedex": 64,
+    "name": "Kadabra",
+    "maxCP": 2328,
+    "related": [
+      "Abra",
+      "Kadabra",
+      "Alakazam",
+      "Mega Alakazam"
+    ]
+  },
+  {
+    "pokedex": 65,
+    "name": "Alakazam",
+    "maxCP": 3057,
+    "gl": 1.5,
+    "ul": 1.5,
+    "tier": "C",
+    "missing": true,
+    "iv": 89,
+    "related": [
+      "Abra",
+      "Kadabra",
+      "Alakazam",
+      "Mega Alakazam"
+    ]
+  },
+  {
+    "pokedex": 65,
+    "name": "Mega Alakazam",
+    "maxCP": 5099,
+    "tier": "A",
+    "related": [
+      "Abra",
+      "Kadabra",
+      "Alakazam",
+      "Mega Alakazam"
+    ]
+  },
+  {
+    "pokedex": 66,
+    "name": "Machop",
+    "maxCP": 1445,
+    "related": [
+      "Machop",
+      "Machoke",
+      "Machamp"
+    ]
+  },
+  {
+    "pokedex": 67,
+    "name": "Machoke",
+    "maxCP": 2296,
+    "gl": 2,
+    "related": [
+      "Machop",
+      "Machoke",
+      "Machamp"
+    ]
+  },
+  {
+    "pokedex": 68,
+    "name": "Machamp",
+    "maxCP": 3455,
+    "gl": 4,
+    "ul": 4,
+    "ml": 2,
+    "tier": "B+",
+    "iv": 95,
+    "related": [
+      "Machop",
+      "Machoke",
+      "Machamp"
+    ]
+  },
+  {
+    "pokedex": 74,
+    "name": "Geodude",
+    "maxCP": 1462,
+    "related": [
+      "Geodude",
+      "Graveler",
+      "Golem"
+    ]
+  },
+  {
+    "pokedex": 75,
+    "name": "Graveler",
+    "maxCP": 2145,
+    "related": [
+      "Geodude",
+      "Graveler",
+      "Golem"
+    ]
+  },
+  {
+    "pokedex": 76,
+    "name": "Golem",
+    "maxCP": 3334,
+    "gl": 1.5,
+    "ul": 1.5,
+    "iv": 87,
+    "related": [
+      "Geodude",
+      "Graveler",
+      "Golem"
+    ]
+  },
+  {
+    "pokedex": 88,
+    "name": "Grimer",
+    "maxCP": 1553,
+    "related": [
+      "Grimer",
+      "Muk"
+    ]
+  },
+  {
+    "pokedex": 89,
+    "name": "Muk",
+    "maxCP": 3117,
+    "gl": 3,
+    "ul": 1,
+    "related": [
+      "Grimer",
+      "Muk"
+    ]
+  },
+  {
+    "pokedex": 92,
+    "name": "Gastly",
+    "maxCP": 1390,
+    "related": [
+      "Gastly",
+      "Haunter",
+      "Gengar",
+      "Mega Gengar"
+    ]
+  },
+  {
+    "pokedex": 93,
+    "name": "Haunter",
+    "maxCP": 2219,
+    "gl": 3,
+    "related": [
+      "Gastly",
+      "Haunter",
+      "Gengar",
+      "Mega Gengar"
+    ]
+  },
+  {
+    "pokedex": 94,
+    "name": "Gengar",
+    "maxCP": 3254,
+    "gl": 3,
+    "ul": 4,
+    "ml": 1.5,
+    "tier": "B+",
+    "iv": 91,
+    "related": [
+      "Gastly",
+      "Haunter",
+      "Gengar",
+      "Mega Gengar"
+    ]
+  },
+  {
+    "pokedex": 94,
+    "name": "Mega Gengar",
+    "maxCP": 4902,
+    "tier": "S",
+    "related": [
+      "Gastly",
+      "Haunter",
+      "Gengar",
+      "Mega Gengar"
+    ]
+  },
+  {
+    "pokedex": 95,
+    "name": "Onix",
+    "maxCP": 1245,
+    "related": [
+      "Onix",
+      "Steelix",
+      "Mega Steelix"
+    ]
+  },
+  {
+    "pokedex": 100,
+    "name": "Voltorb",
+    "maxCP": 1141,
+    "related": [
+      "Voltorb",
+      "Electrode"
+    ]
+  },
+  {
+    "pokedex": 101,
+    "name": "Electrode",
+    "maxCP": 2373,
+    "gl": 2,
+    "related": [
+      "Voltorb",
+      "Electrode"
+    ]
+  },
+  {
+    "pokedex": 102,
+    "name": "Exeggcute",
+    "maxCP": 1328,
+    "related": [
+      "Exeggcute",
+      "Exeggutor",
+      "Alolan Exeggutor"
+    ]
+  },
+  {
+    "pokedex": 103,
+    "name": "Exeggutor",
+    "maxCP": 3014,
+    "gl": 1.5,
+    "ul": 1.5,
+    "tier": "C",
+    "related": [
+      "Exeggcute",
+      "Exeggutor",
+      "Alolan Exeggutor"
+    ]
+  },
+  {
+    "pokedex": 103,
+    "name": "Alolan Exeggutor",
+    "maxCP": 3407,
+    "gl": 1.5,
+    "ul": 1.5,
+    "tier": "C",
+    "related": [
+      "Exeggcute",
+      "Exeggutor",
+      "Alolan Exeggutor"
+    ]
+  },
+  {
+    "pokedex": 109,
+    "name": "Koffing",
+    "maxCP": 1373,
+    "related": [
+      "Koffing",
+      "Weezing"
+    ]
+  },
+  {
+    "pokedex": 110,
+    "name": "Weezing",
+    "maxCP": 2592,
+    "gl": 2,
+    "ul": 2,
+    "related": [
+      "Koffing",
+      "Weezing"
+    ]
+  },
+  {
+    "pokedex": 113,
+    "name": "Chansey",
+    "maxCP": 1418,
+    "gl": 1,
+    "related": [
+      "Chansey",
+      "Blissey",
+      "Happiny"
+    ]
+  },
+  {
+    "pokedex": 132,
+    "name": "Ditto",
+    "maxCP": 940,
+    "related": [
+      "Ditto"
+    ]
+  },
+  {
+    "pokedex": 133,
+    "name": "Eevee",
+    "maxCP": 1210,
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 134,
+    "name": "Vaporeon",
+    "maxCP": 3521,
+    "gl": 2,
+    "ul": 2,
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 135,
+    "name": "Jolteon",
+    "maxCP": 3265,
+    "gl": 1.5,
+    "ul": 2.5,
+    "tier": "C",
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 136,
+    "name": "Flareon",
+    "maxCP": 3424,
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 138,
+    "name": "Omanyte",
+    "maxCP": 1746,
+    "related": [
+      "Omanyte",
+      "Omastar"
+    ]
+  },
+  {
+    "pokedex": 139,
+    "name": "Omastar",
+    "maxCP": 3150,
+    "related": [
+      "Omanyte",
+      "Omastar"
+    ]
+  },
+  {
+    "pokedex": 147,
+    "name": "Dratini",
+    "maxCP": 1136,
+    "related": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Shadow Dratini",
+      "Shadow Dragonair"
+    ]
+  },
+  {
+    "pokedex": 148,
+    "name": "Dragonair",
+    "maxCP": 2012,
+    "gl": 3,
+    "related": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Shadow Dratini",
+      "Shadow Dragonair"
+    ]
+  },
+  {
+    "pokedex": 149,
+    "name": "Dragonite",
+    "maxCP": 3792,
+    "gl": 4,
+    "ul": 4.5,
+    "ml": 4,
+    "tier": "B+",
+    "iv": 100,
+    "related": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Shadow Dratini",
+      "Shadow Dragonair"
+    ]
+  },
+  {
+    "pokedex": 147,
+    "name": "Shadow Dratini",
+    "maxCP": 1136,
+    "related": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Shadow Dratini",
+      "Shadow Dragonair"
+    ]
+  },
+  {
+    "pokedex": 148,
+    "name": "Shadow Dragonair",
+    "maxCP": 2012,
+    "gl": 3,
+    "related": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Shadow Dratini",
+      "Shadow Dragonair"
+    ]
+  },
+  {
+    "pokedex": 158,
+    "name": "Totodile",
+    "maxCP": 1279,
+    "related": [
+      "Totodile",
+      "Croconaw",
+      "Feraligatr"
+    ]
+  },
+  {
+    "pokedex": 159,
+    "name": "Croconaw",
+    "maxCP": 1947,
+    "related": [
+      "Totodile",
+      "Croconaw",
+      "Feraligatr"
+    ]
+  },
+  {
+    "pokedex": 160,
+    "name": "Feraligatr",
+    "maxCP": 3230,
+    "gl": 5,
+    "ul": 5,
+    "ml": 3,
+    "tier": "B",
+    "related": [
+      "Totodile",
+      "Croconaw",
+      "Feraligatr"
+    ]
+  },
+  {
+    "pokedex": 161,
+    "name": "Sentret",
+    "maxCP": 698,
+    "related": [
+      "Sentret",
+      "Furret"
+    ]
+  },
+  {
+    "pokedex": 162,
+    "name": "Furret",
+    "maxCP": 1987,
+    "gl": 1.5,
+    "related": [
+      "Sentret",
+      "Furret"
+    ]
+  },
+  {
+    "pokedex": 169,
+    "name": "Crobat",
+    "maxCP": 2937,
+    "gl": 2,
+    "ul": 2.5,
+    "tier": "B",
+    "related": [
+      "Zubat",
+      "Golbat",
+      "Crobat"
+    ]
+  },
+  {
+    "pokedex": 174,
+    "name": "Igglybuff",
+    "maxCP": 605,
+    "related": [
+      "Jigglypuff",
+      "Wigglytuff",
+      "Igglybuff"
+    ]
+  },
+  {
+    "pokedex": 179,
+    "name": "Mareep",
+    "maxCP": 1120,
+    "related": [
+      "Mareep",
+      "Flaaffy",
+      "Ampharos",
+      "Mega Ampharos"
+    ]
+  },
+  {
+    "pokedex": 180,
+    "name": "Flaaffy",
+    "maxCP": 1720,
+    "related": [
+      "Mareep",
+      "Flaaffy",
+      "Ampharos",
+      "Mega Ampharos"
+    ]
+  },
+  {
+    "pokedex": 181,
+    "name": "Ampharos",
+    "maxCP": 3225,
+    "gl": 2.5,
+    "ul": 3.5,
+    "tier": "C",
+    "related": [
+      "Mareep",
+      "Flaaffy",
+      "Ampharos",
+      "Mega Ampharos"
+    ]
+  },
+  {
+    "pokedex": 181,
+    "name": "Mega Ampharos",
+    "maxCP": 4799,
+    "tier": "A",
+    "related": [
+      "Mareep",
+      "Flaaffy",
+      "Ampharos",
+      "Mega Ampharos"
+    ]
+  },
+  {
+    "pokedex": 182,
+    "name": "Bellossom",
+    "maxCP": 2578,
+    "gl": 2.5,
+    "ul": 3,
+    "related": [
+      "Oddish",
+      "Gloom",
+      "Vileplume",
+      "Bellossom"
+    ]
+  },
+  {
+    "pokedex": 183,
+    "name": "Marill",
+    "maxCP": 521,
+    "related": [
+      "Marill",
+      "Azumarill",
+      "Azurill"
+    ]
+  },
+  {
+    "pokedex": 184,
+    "name": "Azumarill",
+    "maxCP": 1795,
+    "gl": 4.5,
+    "related": [
+      "Marill",
+      "Azumarill",
+      "Azurill"
+    ]
+  },
+  {
+    "pokedex": 190,
+    "name": "Aipom",
+    "maxCP": 1524,
+    "related": [
+      "Aipom",
+      "Ambipom"
+    ]
+  },
+  {
+    "pokedex": 193,
+    "name": "Yanma",
+    "maxCP": 1662,
+    "related": [
+      "Yanma",
+      "Yanmega"
+    ]
+  },
+  {
+    "pokedex": 196,
+    "name": "Espeon",
+    "maxCP": 3583,
+    "gl": 2,
+    "ul": 3.5,
+    "ml": 3,
+    "tier": "C",
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 197,
+    "name": "Umbreon",
+    "maxCP": 2416,
+    "gl": 4.5,
+    "ul": 4,
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 202,
+    "name": "Wobbuffet",
+    "maxCP": 1160,
+    "gl": 3,
+    "related": [
+      "Wobbuffet",
+      "Wynaut"
+    ]
+  },
+  {
+    "pokedex": 208,
+    "name": "Steelix",
+    "maxCP": 2729,
+    "gl": 4,
+    "ul": 4,
+    "related": [
+      "Onix",
+      "Steelix",
+      "Mega Steelix"
+    ]
+  },
+  {
+    "pokedex": 208,
+    "name": "Mega Steelix",
+    "maxCP": 4149,
+    "tier": "C",
+    "related": [
+      "Onix",
+      "Steelix",
+      "Mega Steelix"
+    ]
+  },
+  {
+    "pokedex": 209,
+    "name": "Snubbull",
+    "maxCP": 1399,
+    "related": [
+      "Snubbull",
+      "Granbull"
+    ]
+  },
+  {
+    "pokedex": 210,
+    "name": "Granbull",
+    "maxCP": 2885,
+    "gl": 2.5,
+    "ul": 3.5,
+    "ml": 2,
+    "tier": "B",
+    "iv": 91,
+    "related": [
+      "Snubbull",
+      "Granbull"
+    ]
+  },
+  {
+    "pokedex": 214,
+    "name": "Heracross",
+    "maxCP": 3506,
+    "gl": 2,
+    "ul": 3,
+    "ml": 3,
+    "related": [
+      "Heracross",
+      "Mega Heracross"
+    ]
+  },
+  {
+    "pokedex": 214,
+    "name": "Mega Heracross",
+    "maxCP": 5443,
+    "tier": "A",
+    "related": [
+      "Heracross",
+      "Mega Heracross"
+    ]
+  },
+  {
+    "pokedex": 231,
+    "name": "Phanpy",
+    "maxCP": 1364,
+    "related": [
+      "Phanpy",
+      "Donphan"
+    ]
+  },
+  {
+    "pokedex": 232,
+    "name": "Donphan",
+    "maxCP": 3407,
+    "gl": 2,
+    "ul": 3,
+    "related": [
+      "Phanpy",
+      "Donphan"
+    ]
+  },
+  {
+    "pokedex": 242,
+    "name": "Blissey",
+    "maxCP": 3117,
+    "ul": 2,
+    "related": [
+      "Chansey",
+      "Blissey",
+      "Happiny"
+    ]
+  },
+  {
+    "pokedex": 261,
+    "name": "Poochyena",
+    "maxCP": 766,
+    "related": [
+      "Poochyena",
+      "Mightyena"
+    ]
+  },
+  {
+    "pokedex": 262,
+    "name": "Mightyena",
+    "maxCP": 2177,
+    "gl": 1,
+    "related": [
+      "Poochyena",
+      "Mightyena"
+    ]
+  },
+  {
+    "pokedex": 273,
+    "name": "Seedot",
+    "maxCP": 676,
+    "related": [
+      "Seedot",
+      "Nuzleaf",
+      "Shiftry"
+    ]
+  },
+  {
+    "pokedex": 274,
+    "name": "Nuzleaf",
+    "maxCP": 1387,
+    "related": [
+      "Seedot",
+      "Nuzleaf",
+      "Shiftry"
+    ]
+  },
+  {
+    "pokedex": 275,
+    "name": "Shiftry",
+    "maxCP": 2637,
+    "gl": 3.5,
+    "ul": 4,
+    "related": [
+      "Seedot",
+      "Nuzleaf",
+      "Shiftry"
+    ]
+  },
+  {
+    "pokedex": 280,
+    "name": "Ralts",
+    "maxCP": 609,
+    "related": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Gallade",
+      "Mega Gallade"
+    ]
+  },
+  {
+    "pokedex": 281,
+    "name": "Kirlia",
+    "maxCP": 1093,
+    "related": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Gallade",
+      "Mega Gallade"
+    ]
+  },
+  {
+    "pokedex": 282,
+    "name": "Gardevoir",
+    "maxCP": 3497,
+    "gl": 2.5,
+    "ul": 2,
+    "ml": 3,
+    "tier": "B+",
+    "related": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Gallade",
+      "Mega Gallade"
+    ]
+  },
+  {
+    "pokedex": 282,
+    "name": "Mega Gardevoir",
+    "maxCP": 5101,
+    "tier": "A+",
+    "related": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Gallade",
+      "Mega Gallade"
+    ]
+  },
+  {
+    "pokedex": 285,
+    "name": "Shroomish",
+    "maxCP": 916,
+    "related": [
+      "Shroomish",
+      "Breloom"
+    ]
+  },
+  {
+    "pokedex": 286,
+    "name": "Breloom",
+    "maxCP": 2971,
+    "gl": 2,
+    "ul": 3,
+    "tier": "B+",
+    "iv": 97,
+    "related": [
+      "Shroomish",
+      "Breloom"
+    ]
+  },
+  {
+    "pokedex": 290,
+    "name": "Nincada",
+    "maxCP": 868,
+    "related": [
+      "Nincada",
+      "Ninjask",
+      "Shedinja"
+    ]
+  },
+  {
+    "pokedex": 291,
+    "name": "Ninjask",
+    "maxCP": 2226,
+    "gl": 1,
+    "related": [
+      "Nincada",
+      "Ninjask",
+      "Shedinja"
+    ]
+  },
+  {
+    "pokedex": 292,
+    "name": "Shedinja",
+    "maxCP": 445,
+    "related": [
+      "Nincada",
+      "Ninjask",
+      "Shedinja"
+    ]
+  },
+  {
+    "pokedex": 293,
+    "name": "Whismur",
+    "maxCP": 758,
+    "related": [
+      "Whismur",
+      "Loudred",
+      "Exploud"
+    ]
+  },
+  {
+    "pokedex": 294,
+    "name": "Loudred",
+    "maxCP": 1500,
+    "related": [
+      "Whismur",
+      "Loudred",
+      "Exploud"
+    ]
+  },
+  {
+    "pokedex": 295,
+    "name": "Exploud",
+    "maxCP": 2654,
+    "gl": 0.5,
+    "related": [
+      "Whismur",
+      "Loudred",
+      "Exploud"
+    ]
+  },
+  {
+    "pokedex": 296,
+    "name": "Makuhita",
+    "maxCP": 924,
+    "related": [
+      "Makuhita",
+      "Hariyama",
+      "Shadow Makuhita",
+      "Shadow Hariyama"
+    ]
+  },
+  {
+    "pokedex": 297,
+    "name": "Hariyama",
+    "maxCP": 3198,
+    "gl": 2,
+    "ul": 3,
+    "ml": 2.5,
+    "tier": "B",
+    "related": [
+      "Makuhita",
+      "Hariyama",
+      "Shadow Makuhita",
+      "Shadow Hariyama"
+    ]
+  },
+  {
+    "pokedex": 296,
+    "name": "Shadow Makuhita",
+    "maxCP": 924,
+    "related": [
+      "Makuhita",
+      "Hariyama",
+      "Shadow Makuhita",
+      "Shadow Hariyama"
+    ]
+  },
+  {
+    "pokedex": 297,
+    "name": "Shadow Hariyama",
+    "maxCP": 3198,
+    "gl": 2,
+    "ul": 3,
+    "ml": 2.5,
+    "tier": "A",
+    "iv": 57,
+    "related": [
+      "Makuhita",
+      "Hariyama",
+      "Shadow Makuhita",
+      "Shadow Hariyama"
+    ]
+  },
+  {
+    "pokedex": 298,
+    "name": "Azurill",
+    "maxCP": 411,
+    "related": [
+      "Marill",
+      "Azumarill",
+      "Azurill"
+    ]
+  },
+  {
+    "pokedex": 302,
+    "name": "Sableye",
+    "maxCP": 1668,
+    "gl": 4.5,
+    "related": [
+      "Sableye",
+      "Mega Sableye"
+    ]
+  },
+  {
+    "pokedex": 302,
+    "name": "Mega Sableye",
+    "maxCP": 1784,
+    "related": [
+      "Sableye",
+      "Mega Sableye"
+    ]
+  },
+  {
+    "pokedex": 307,
+    "name": "Meditite",
+    "maxCP": 784,
+    "related": [
+      "Meditite",
+      "Medicham",
+      "Mega Medicham"
+    ]
+  },
+  {
+    "pokedex": 308,
+    "name": "Medicham",
+    "maxCP": 1618,
+    "gl": 5,
+    "related": [
+      "Meditite",
+      "Medicham",
+      "Mega Medicham"
+    ]
+  },
+  {
+    "pokedex": 308,
+    "name": "Mega Medicham",
+    "maxCP": 2821,
+    "related": [
+      "Meditite",
+      "Medicham",
+      "Mega Medicham"
+    ]
+  },
+  {
+    "pokedex": 316,
+    "name": "Gulpin",
+    "maxCP": 979,
+    "related": [
+      "Gulpin",
+      "Swalot"
+    ]
+  },
+  {
+    "pokedex": 317,
+    "name": "Swalot",
+    "maxCP": 2236,
+    "gl": 3,
+    "related": [
+      "Gulpin",
+      "Swalot"
+    ]
+  },
+  {
+    "pokedex": 325,
+    "name": "Spoink",
+    "maxCP": 1508,
+    "related": [
+      "Spoink",
+      "Grumpig"
+    ]
+  },
+  {
+    "pokedex": 326,
+    "name": "Grumpig",
+    "maxCP": 2679,
+    "ul": 1.5,
+    "related": [
+      "Spoink",
+      "Grumpig"
+    ]
+  },
+  {
+    "pokedex": 337,
+    "name": "Lunatone",
+    "maxCP": 2631,
+    "gl": 1,
+    "related": [
+      "Lunatone"
+    ]
+  },
+  {
+    "pokedex": 341,
+    "name": "Corphish",
+    "maxCP": 1391,
+    "related": [
+      "Corphish",
+      "Crawdaunt"
+    ]
+  },
+  {
+    "pokedex": 342,
+    "name": "Crawdaunt",
+    "maxCP": 2797,
+    "gl": 1.5,
+    "ul": 1.5,
+    "tier": "B",
+    "related": [
+      "Corphish",
+      "Crawdaunt"
+    ]
+  },
+  {
+    "pokedex": 345,
+    "name": "Shadow Lileep",
+    "maxCP": 1460,
+    "related": [
+      "Shadow Lileep",
+      "Shadow Cradily"
+    ]
+  },
+  {
+    "pokedex": 346,
+    "name": "Shadow Cradily",
+    "maxCP": 2499,
+    "missing": true,
+    "related": [
+      "Shadow Lileep",
+      "Shadow Cradily"
+    ]
+  },
+  {
+    "pokedex": 351,
+    "name": "Castform",
+    "maxCP": 1845,
+    "related": [
+      "Castform"
+    ]
+  },
+  {
+    "pokedex": 352,
+    "name": "Kecleon",
+    "maxCP": 2314,
+    "related": [
+      "Kecleon"
+    ]
+  },
+  {
+    "pokedex": 353,
+    "name": "Shuppet",
+    "maxCP": 1151,
+    "related": [
+      "Shuppet",
+      "Banette",
+      "Mega Banette"
+    ]
+  },
+  {
+    "pokedex": 354,
+    "name": "Banette",
+    "maxCP": 2599,
+    "gl": 2,
+    "ul": 1.5,
+    "tier": "C",
+    "iv": 86,
+    "related": [
+      "Shuppet",
+      "Banette",
+      "Mega Banette"
+    ]
+  },
+  {
+    "pokedex": 354,
+    "name": "Mega Banette",
+    "maxCP": 4063,
+    "tier": "A",
+    "related": [
+      "Shuppet",
+      "Banette",
+      "Mega Banette"
+    ]
+  },
+  {
+    "pokedex": 355,
+    "name": "Duskull",
+    "maxCP": 798,
+    "related": [
+      "Duskull",
+      "Dusclops",
+      "Dusknoir"
+    ]
+  },
+  {
+    "pokedex": 356,
+    "name": "Dusclops",
+    "maxCP": 1799,
+    "gl": 2.5,
+    "related": [
+      "Duskull",
+      "Dusclops",
+      "Dusknoir"
+    ]
+  },
+  {
+    "pokedex": 360,
+    "name": "Wynaut",
+    "maxCP": 603,
+    "related": [
+      "Wobbuffet",
+      "Wynaut"
+    ]
+  },
+  {
+    "pokedex": 424,
+    "name": "Ambipom",
+    "maxCP": 2733,
+    "related": [
+      "Aipom",
+      "Ambipom"
+    ]
+  },
+  {
+    "pokedex": 427,
+    "name": "Buneary",
+    "maxCP": 1423,
+    "related": [
+      "Buneary",
+      "Lopunny",
+      "Mega Lopunny"
+    ]
+  },
+  {
+    "pokedex": 428,
+    "name": "Lopunny",
+    "maxCP": 2328,
+    "gl": 1.5,
+    "tier": "B",
+    "iv": 73,
+    "related": [
+      "Buneary",
+      "Lopunny",
+      "Mega Lopunny"
+    ]
+  },
+  {
+    "pokedex": 428,
+    "name": "Mega Lopunny",
+    "maxCP": 4234,
+    "tier": "B+",
+    "related": [
+      "Buneary",
+      "Lopunny",
+      "Mega Lopunny"
+    ]
+  },
+  {
+    "pokedex": 434,
+    "name": "Shadow Stunky",
+    "maxCP": 1301,
+    "related": [
+      "Shadow Stunky",
+      "Shadow Skuntank"
+    ]
+  },
+  {
+    "pokedex": 435,
+    "name": "Shadow Skuntank",
+    "maxCP": 2666,
+    "gl": 3.5,
+    "ul": 3.5,
+    "tier": "B",
+    "related": [
+      "Shadow Stunky",
+      "Shadow Skuntank"
+    ]
+  },
+  {
+    "pokedex": 440,
+    "name": "Happiny",
+    "maxCP": 419,
+    "related": [
+      "Chansey",
+      "Blissey",
+      "Happiny"
+    ]
+  },
+  {
+    "pokedex": 469,
+    "name": "Yanmega",
+    "maxCP": 3330,
+    "tier": "B",
+    "related": [
+      "Yanma",
+      "Yanmega"
+    ]
+  },
+  {
+    "pokedex": 470,
+    "name": "Leafeon",
+    "maxCP": 3328,
+    "gl": 2,
+    "ul": 2,
+    "ml": 2.5,
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 471,
+    "name": "Glaceon",
+    "maxCP": 3535,
+    "gl": 1,
+    "ul": 1,
+    "ml": 1,
+    "tier": "B+",
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 475,
+    "name": "Gallade",
+    "maxCP": 3497,
+    "gl": 3.5,
+    "ul": 3.5,
+    "ml": 1.5,
+    "tier": "C",
+    "related": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Gallade",
+      "Mega Gallade"
+    ]
+  },
+  {
+    "pokedex": 475,
+    "name": "Mega Gallade",
+    "maxCP": 5112,
+    "related": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Mega Gardevoir",
+      "Gallade",
+      "Mega Gallade"
+    ]
+  },
+  {
+    "pokedex": 477,
+    "name": "Dusknoir",
+    "maxCP": 2700,
+    "gl": 2.5,
+    "ul": 3,
+    "related": [
+      "Duskull",
+      "Dusclops",
+      "Dusknoir"
+    ]
+  },
+  {
+    "pokedex": 501,
+    "name": "Oshawott",
+    "maxCP": 1182,
+    "related": [
+      "Oshawott",
+      "Dewott",
+      "Samurott",
+      "Hisuian Samurott"
+    ]
+  },
+  {
+    "pokedex": 502,
+    "name": "Dewott",
+    "maxCP": 1968,
+    "missing": true,
+    "iv": 93,
+    "related": [
+      "Oshawott",
+      "Dewott",
+      "Samurott",
+      "Hisuian Samurott"
+    ]
+  },
+  {
+    "pokedex": 503,
+    "name": "Samurott",
+    "maxCP": 3194,
+    "gl": 3,
+    "ul": 2.5,
+    "tier": "B",
+    "missing": true,
+    "related": [
+      "Oshawott",
+      "Dewott",
+      "Samurott",
+      "Hisuian Samurott"
+    ]
+  },
+  {
+    "pokedex": 503,
+    "name": "Hisuian Samurott",
+    "maxCP": 3167,
+    "missing": true,
+    "related": [
+      "Oshawott",
+      "Dewott",
+      "Samurott",
+      "Hisuian Samurott"
+    ]
+  },
+  {
+    "pokedex": 504,
+    "name": "Patrat",
+    "maxCP": 895,
+    "related": [
+      "Patrat",
+      "Watchog"
+    ]
+  },
+  {
+    "pokedex": 505,
+    "name": "Watchog",
+    "maxCP": 2056,
+    "related": [
+      "Patrat",
+      "Watchog"
+    ]
+  },
+  {
+    "pokedex": 506,
+    "name": "Lillipup",
+    "maxCP": 1035,
+    "related": [
+      "Lillipup",
+      "Herdier",
+      "Stoutland"
+    ]
+  },
+  {
+    "pokedex": 507,
+    "name": "Herdier",
+    "maxCP": 1789,
+    "iv": 88,
+    "related": [
+      "Lillipup",
+      "Herdier",
+      "Stoutland"
+    ]
+  },
+  {
+    "pokedex": 508,
+    "name": "Stoutland",
+    "maxCP": 2848,
+    "gl": 2,
+    "ul": 2.5,
+    "missing": true,
+    "related": [
+      "Lillipup",
+      "Herdier",
+      "Stoutland"
+    ]
+  },
+  {
+    "pokedex": 509,
+    "name": "Purrloin",
+    "maxCP": 872,
+    "related": [
+      "Purrloin",
+      "Liepard"
+    ]
+  },
+  {
+    "pokedex": 510,
+    "name": "Liepard",
+    "maxCP": 2087,
+    "gl": 1,
+    "ul": 1,
+    "missing": true,
+    "iv": 82,
+    "related": [
+      "Purrloin",
+      "Liepard"
+    ]
+  },
+  {
+    "pokedex": 517,
+    "name": "Munna",
+    "maxCP": 1294,
+    "iv": 88,
+    "related": [
+      "Munna",
+      "Musharna"
+    ]
+  },
+  {
+    "pokedex": 518,
+    "name": "Musharna",
+    "maxCP": 3079,
+    "gl": 1,
+    "ul": 1,
+    "missing": true,
+    "related": [
+      "Munna",
+      "Musharna"
+    ]
+  },
+  {
+    "pokedex": 519,
+    "name": "Pidove",
+    "maxCP": 958,
+    "related": [
+      "Pidove",
+      "Tranquill",
+      "Unfezant"
+    ]
+  },
+  {
+    "pokedex": 520,
+    "name": "Tranquill",
+    "maxCP": 1631,
+    "iv": 80,
+    "related": [
+      "Pidove",
+      "Tranquill",
+      "Unfezant"
+    ]
+  },
+  {
+    "pokedex": 521,
+    "name": "Unfezant",
+    "maxCP": 3091,
+    "gl": 1,
+    "tier": "B",
+    "missing": true,
+    "related": [
+      "Pidove",
+      "Tranquill",
+      "Unfezant"
+    ]
+  },
+  {
+    "pokedex": 522,
+    "name": "Blitzle",
+    "maxCP": 998,
+    "related": [
+      "Blitzle",
+      "Zebstrika"
+    ]
+  },
+  {
+    "pokedex": 523,
+    "name": "Zebstrika",
+    "maxCP": 2745,
+    "gl": 2,
+    "ul": 1,
+    "tier": "C",
+    "related": [
+      "Blitzle",
+      "Zebstrika"
+    ]
+  },
+  {
+    "pokedex": 524,
+    "name": "Roggenrola",
+    "maxCP": 1362,
+    "iv": 84,
+    "related": [
+      "Roggenrola",
+      "Boldore",
+      "Gigalith"
+    ]
+  },
+  {
+    "pokedex": 525,
+    "name": "Boldore",
+    "maxCP": 2293,
+    "related": [
+      "Roggenrola",
+      "Boldore",
+      "Gigalith"
+    ]
+  },
+  {
+    "pokedex": 526,
+    "name": "Gigalith",
+    "maxCP": 3650,
+    "gl": 1.5,
+    "ul": 1.5,
+    "ml": 1,
+    "tier": "B+",
+    "related": [
+      "Roggenrola",
+      "Boldore",
+      "Gigalith"
+    ]
+  },
+  {
+    "pokedex": 527,
+    "name": "Woobat",
+    "maxCP": 1149,
+    "related": [
+      "Woobat",
+      "Swoobat"
+    ]
+  },
+  {
+    "pokedex": 528,
+    "name": "Swoobat",
+    "maxCP": 1940,
+    "missing": true,
+    "related": [
+      "Woobat",
+      "Swoobat"
+    ]
+  },
+  {
+    "pokedex": 531,
+    "name": "Audino",
+    "maxCP": 1902,
+    "related": [
+      "Audino",
+      "Mega Audino"
+    ]
+  },
+  {
+    "pokedex": 531,
+    "name": "Mega Audino",
+    "maxCP": 2853,
+    "related": [
+      "Audino",
+      "Mega Audino"
+    ]
+  },
+  {
+    "pokedex": 538,
+    "name": "Throh",
+    "maxCP": 2896,
+    "related": [
+      "Throh"
+    ]
+  },
+  {
+    "pokedex": 543,
+    "name": "Venipede",
+    "maxCP": 799,
+    "related": [
+      "Venipede",
+      "Whirlipede",
+      "Scolipede"
+    ]
+  },
+  {
+    "pokedex": 544,
+    "name": "Whirlipede",
+    "maxCP": 1293,
+    "iv": 96,
+    "related": [
+      "Venipede",
+      "Whirlipede",
+      "Scolipede"
+    ]
+  },
+  {
+    "pokedex": 545,
+    "name": "Scolipede",
+    "maxCP": 2528,
+    "gl": 2.5,
+    "ul": 1.5,
+    "missing": true,
+    "related": [
+      "Venipede",
+      "Whirlipede",
+      "Scolipede"
+    ]
+  },
+  {
+    "pokedex": 550,
+    "name": "Basculin",
+    "maxCP": 2363,
+    "related": [
+      "Basculin"
+    ]
+  },
+  {
+    "pokedex": 556,
+    "name": "Maractus",
+    "maxCP": 2571,
+    "related": [
+      "Maractus"
+    ]
+  },
+  {
+    "pokedex": 618,
+    "name": "Stunfisk",
+    "maxCP": 2445,
+    "gl": 3.5,
+    "ul": 3,
+    "related": [
+      "Stunfisk"
+    ]
+  },
+  {
+    "pokedex": 632,
+    "name": "Durant",
+    "maxCP": 3007,
+    "gl": 1.5,
+    "ul": 1,
+    "iv": 84,
+    "related": [
+      "Durant"
+    ]
+  },
+  {
+    "pokedex": 638,
+    "name": "Cobalion",
+    "maxCP": 3417,
+    "gl": 3,
+    "ul": 2,
+    "tier": "C",
+    "iv": 82,
+    "related": [
+      "Cobalion"
+    ]
+  },
+  {
+    "pokedex": 661,
+    "name": "Fletchling",
+    "maxCP": 905,
+    "iv": 82,
+    "related": [
+      "Fletchling",
+      "Fletchinder",
+      "Talonflame"
+    ]
+  },
+  {
+    "pokedex": 662,
+    "name": "Fletchinder",
+    "maxCP": 1661,
+    "related": [
+      "Fletchling",
+      "Fletchinder",
+      "Talonflame"
+    ]
+  },
+  {
+    "pokedex": 663,
+    "name": "Talonflame",
+    "maxCP": 2493,
+    "gl": 5,
+    "ul": 5,
+    "related": [
+      "Fletchling",
+      "Fletchinder",
+      "Talonflame"
+    ]
+  },
+  {
+    "pokedex": 676,
+    "name": "Furfrou",
+    "maxCP": 2387,
+    "gl": 2,
+    "ul": 1,
+    "related": [
+      "Furfrou"
+    ]
+  },
+  {
+    "pokedex": 700,
+    "name": "Sylveon",
+    "maxCP": 3470,
+    "gl": 3.5,
+    "ul": 4,
+    "ml": 3.5,
+    "tier": "B",
+    "related": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "pokedex": 702,
+    "name": "Dedenne",
+    "maxCP": 2081,
+    "gl": 3,
+    "related": [
+      "Dedenne"
+    ]
+  },
+  {
+    "pokedex": 703,
+    "name": "Carbink",
+    "maxCP": 1658,
+    "gl": 5,
+    "ul": 1,
+    "iv": 80,
+    "related": [
+      "Carbink"
+    ]
+  },
+  {
+    "pokedex": 728,
+    "name": "Popplio",
+    "maxCP": 1276,
+    "related": [
+      "Popplio",
+      "Brionne",
+      "Primarina"
+    ]
+  },
+  {
+    "pokedex": 729,
+    "name": "Brionne",
+    "maxCP": 2131,
+    "related": [
+      "Popplio",
+      "Brionne",
+      "Primarina"
+    ]
+  },
+  {
+    "pokedex": 730,
+    "name": "Primarina",
+    "maxCP": 3618,
+    "gl": 2,
+    "ul": 3,
+    "ml": 3.5,
+    "related": [
+      "Popplio",
+      "Brionne",
+      "Primarina"
+    ]
+  },
+  {
+    "pokedex": 741,
+    "name": "Oricorio",
+    "maxCP": 2638,
+    "gl": 1,
+    "ul": 1,
+    "related": [
+      "Oricorio"
+    ]
+  },
+  {
+    "pokedex": 755,
+    "name": "Morelull",
+    "maxCP": 1168,
+    "related": [
+      "Morelull",
+      "Shiinotic"
+    ]
+  },
+  {
+    "pokedex": 756,
+    "name": "Shiinotic",
+    "maxCP": 2104,
+    "related": [
+      "Morelull",
+      "Shiinotic"
+    ]
+  },
+  {
+    "pokedex": 777,
+    "name": "Togedemaru",
+    "maxCP": 2442,
+    "gl": 3.5,
+    "ul": 3,
+    "related": [
+      "Togedemaru"
+    ]
+  },
+  {
+    "pokedex": 819,
+    "name": "Skwovet",
+    "maxCP": 1067,
+    "related": [
+      "Skwovet",
+      "Greedent"
+    ]
+  },
+  {
+    "pokedex": 820,
+    "name": "Greedent",
+    "maxCP": 2679,
+    "gl": 4,
+    "ul": 3,
+    "related": [
+      "Skwovet",
+      "Greedent"
+    ]
+  },
+  {
+    "pokedex": 863,
+    "name": "Perrserker",
+    "maxCP": 2697,
+    "gl": 3,
+    "ul": 2.5,
+    "related": [
+      "Galarian Meowth",
+      "Perrserker"
+    ]
+  },
+  {
+    "pokedex": 979,
+    "name": "Annihilape",
+    "maxCP": 3695,
+    "gl": 5,
+    "ul": 4,
+    "ml": 3.5,
+    "related": [
+      "Mankey",
+      "Primeape",
+      "Annihilape"
+    ]
+  }
+]
