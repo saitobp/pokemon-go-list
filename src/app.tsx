@@ -48,8 +48,8 @@ export function App() {
               <th align='left'>UL</th>
               <th align='left'>ML</th>
               <th align='left'>Tier</th>
-              <th align='left'>Missing</th>
-              <th align='left'>IV</th>
+              {/* <th align='left'>Missing</th>
+              <th align='left'>IV</th> */}
             </tr>
           </thead>
 
@@ -68,8 +68,8 @@ export function App() {
                 <td align='left'>{pokemon.ul || '-'}</td>
                 <td align='left'>{pokemon.ml || '-'}</td>
                 <td align='left'>{pokemon.tier || '-'}</td>
-                <td align='left'>{pokemon.missing?.toString() || '-'}</td>
-                <td align='left'>{pokemon.iv || '-'}</td>
+                {/* <td align='left'>{pokemon.missing?.toString() || '-'}</td>
+                <td align='left'>{pokemon.iv || '-'}</td> */}
               </tr>
             ))}
           </tbody>
