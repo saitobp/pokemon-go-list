@@ -7,7 +7,8 @@
       "Bulbasaur",
       "Ivysaur",
       "Venusaur"
-    ]
+    ],
+    "updatedAt": 1726066630505
   },
   {
     "pokedex": 2,
@@ -44,7 +45,8 @@
       "Charmander",
       "Charmeleon",
       "Charizard"
-    ]
+    ],
+    "updatedAt": 1726066631044
   },
   {
     "pokedex": 10,
@@ -54,7 +56,8 @@
       "Caterpie",
       "Metapod",
       "Butterfree"
-    ]
+    ],
+    "updatedAt": 1726066631399
   },
   {
     "pokedex": 11,
@@ -64,7 +67,8 @@
       "Caterpie",
       "Metapod",
       "Butterfree"
-    ]
+    ],
+    "updatedAt": 1726066631829
   },
   {
     "pokedex": 12,
@@ -74,7 +78,9 @@
       "Caterpie",
       "Metapod",
       "Butterfree"
-    ]
+    ],
+    "gl": 1,
+    "updatedAt": 1726066632249
   },
   {
     "pokedex": 16,
@@ -85,7 +91,8 @@
       "Pidgeotto",
       "Pidgeot",
       "Mega Pidgeot"
-    ]
+    ],
+    "updatedAt": 1726066632818
   },
   {
     "pokedex": 17,
@@ -96,7 +103,8 @@
       "Pidgeotto",
       "Pidgeot",
       "Mega Pidgeot"
-    ]
+    ],
+    "updatedAt": 1726066633289
   },
   {
     "pokedex": 18,
@@ -133,7 +141,8 @@
     "related": [
       "Rattata",
       "Raticate"
-    ]
+    ],
+    "updatedAt": 1726066633744
   },
   {
     "pokedex": 20,
@@ -142,7 +151,8 @@
     "related": [
       "Rattata",
       "Raticate"
-    ]
+    ],
+    "updatedAt": 1726066634253
   },
   {
     "pokedex": 21,
@@ -151,7 +161,8 @@
     "related": [
       "Spearow",
       "Fearow"
-    ]
+    ],
+    "updatedAt": 1726066634780
   },
   {
     "pokedex": 22,
@@ -171,7 +182,8 @@
     "related": [
       "Ekans",
       "Arbok"
-    ]
+    ],
+    "updatedAt": 1726066635276
   },
   {
     "pokedex": 24,
@@ -180,7 +192,8 @@
     "related": [
       "Ekans",
       "Arbok"
-    ]
+    ],
+    "updatedAt": 1726066635785
   },
   {
     "pokedex": 27,
@@ -213,7 +226,8 @@
       "Nidoran♀",
       "Nidorina",
       "Nidoqueen"
-    ]
+    ],
+    "updatedAt": 1726066636083
   },
   {
     "pokedex": 30,
@@ -223,7 +237,8 @@
       "Nidoran♀",
       "Nidorina",
       "Nidoqueen"
-    ]
+    ],
+    "updatedAt": 1726066636653
   },
   {
     "pokedex": 31,
@@ -233,7 +248,10 @@
       "Nidoran♀",
       "Nidorina",
       "Nidoqueen"
-    ]
+    ],
+    "gl": 3.5,
+    "ul": 3.5,
+    "updatedAt": 1726066637187
   },
   {
     "pokedex": 39,
@@ -243,7 +261,8 @@
       "Jigglypuff",
       "Wigglytuff",
       "Igglybuff"
-    ]
+    ],
+    "updatedAt": 1726066637765
   },
   {
     "pokedex": 40,
@@ -270,7 +289,8 @@
       "Shadow Zubat",
       "Shadow Golbat",
       "Shadow Crobat"
-    ]
+    ],
+    "updatedAt": 1726066638293
   },
   {
     "pokedex": 42,
@@ -297,7 +317,8 @@
       "Shadow Zubat",
       "Shadow Golbat",
       "Shadow Crobat"
-    ]
+    ],
+    "updatedAt": 1726066638958
   },
   {
     "pokedex": 42,
@@ -310,7 +331,8 @@
       "Shadow Zubat",
       "Shadow Golbat",
       "Shadow Crobat"
-    ]
+    ],
+    "updatedAt": 1726066640004
   },
   {
     "pokedex": 43,
@@ -321,7 +343,8 @@
       "Gloom",
       "Vileplume",
       "Bellossom"
-    ]
+    ],
+    "updatedAt": 1726066640541
   },
   {
     "pokedex": 44,
@@ -357,7 +380,8 @@
     "related": [
       "Paras",
       "Parasect"
-    ]
+    ],
+    "updatedAt": 1726066640987
   },
   {
     "pokedex": 47,
@@ -366,7 +390,8 @@
     "related": [
       "Paras",
       "Parasect"
-    ]
+    ],
+    "updatedAt": 1726066641512
   },
   {
     "pokedex": 48,
@@ -375,7 +400,8 @@
     "related": [
       "Venonat",
       "Venomoth"
-    ]
+    ],
+    "updatedAt": 1726066641972
   },
   {
     "pokedex": 49,
@@ -395,7 +421,8 @@
     "related": [
       "Meowth",
       "Persian"
-    ]
+    ],
+    "updatedAt": 1726066642438
   },
   {
     "pokedex": 53,
@@ -416,7 +443,8 @@
     "related": [
       "Galarian Meowth",
       "Perrserker"
-    ]
+    ],
+    "updatedAt": 1726066643056
   },
   {
     "pokedex": 56,
@@ -426,7 +454,8 @@
       "Mankey",
       "Primeape",
       "Annihilape"
-    ]
+    ],
+    "updatedAt": 1726066643531
   },
   {
     "pokedex": 57,
@@ -449,7 +478,8 @@
     "related": [
       "Growlithe",
       "Arcanine"
-    ]
+    ],
+    "updatedAt": 1726066644112
   },
   {
     "pokedex": 59,
@@ -474,7 +504,8 @@
       "Kadabra",
       "Alakazam",
       "Mega Alakazam"
-    ]
+    ],
+    "updatedAt": 1726066644575
   },
   {
     "pokedex": 64,
@@ -485,7 +516,8 @@
       "Kadabra",
       "Alakazam",
       "Mega Alakazam"
-    ]
+    ],
+    "updatedAt": 1726066645141
   },
   {
     "pokedex": 65,
@@ -525,7 +557,8 @@
       "Machop",
       "Machoke",
       "Machamp"
-    ]
+    ],
+    "updatedAt": 1726066645654
   },
   {
     "pokedex": 67,
@@ -556,6 +589,43 @@
     "updatedAt": 1726064221097
   },
   {
+    "pokedex": 69,
+    "name": "Bellsprout",
+    "maxCP": 1168,
+    "related": [
+      "Bellsprout",
+      "Weepinbell",
+      "Victreebel"
+    ],
+    "updatedAt": 1726066646190
+  },
+  {
+    "pokedex": 70,
+    "name": "Weepinbell",
+    "maxCP": 1822,
+    "related": [
+      "Bellsprout",
+      "Weepinbell",
+      "Victreebel"
+    ],
+    "gl": 2.5,
+    "updatedAt": 1726066646673
+  },
+  {
+    "pokedex": 71,
+    "name": "Victreebel",
+    "maxCP": 2748,
+    "related": [
+      "Bellsprout",
+      "Weepinbell",
+      "Victreebel"
+    ],
+    "tier": "C",
+    "gl": 3.5,
+    "ul": 2,
+    "updatedAt": 1726066647140
+  },
+  {
     "pokedex": 74,
     "name": "Geodude",
     "maxCP": 1462,
@@ -563,7 +633,8 @@
       "Geodude",
       "Graveler",
       "Golem"
-    ]
+    ],
+    "updatedAt": 1726066647616
   },
   {
     "pokedex": 75,
@@ -573,7 +644,8 @@
       "Geodude",
       "Graveler",
       "Golem"
-    ]
+    ],
+    "updatedAt": 1726066648086
   },
   {
     "pokedex": 76,
@@ -591,13 +663,36 @@
     "updatedAt": 1726064222881
   },
   {
+    "pokedex": 77,
+    "name": "Galarian Ponyta",
+    "maxCP": 1919,
+    "related": [
+      "Galarian Ponyta",
+      "Galarian Rapidash"
+    ],
+    "updatedAt": 1726066648547
+  },
+  {
+    "pokedex": 78,
+    "name": "Rapidash",
+    "maxCP": 2782,
+    "related": [
+      "Galarian Ponyta",
+      "Galarian Rapidash"
+    ],
+    "gl": 2,
+    "ul": 2.5,
+    "updatedAt": 1726066649042
+  },
+  {
     "pokedex": 88,
     "name": "Grimer",
     "maxCP": 1553,
     "related": [
       "Grimer",
       "Muk"
-    ]
+    ],
+    "updatedAt": 1726066649554
   },
   {
     "pokedex": 89,
@@ -620,7 +715,8 @@
       "Haunter",
       "Gengar",
       "Mega Gengar"
-    ]
+    ],
+    "updatedAt": 1726066650193
   },
   {
     "pokedex": 93,
@@ -673,7 +769,8 @@
       "Onix",
       "Steelix",
       "Mega Steelix"
-    ]
+    ],
+    "updatedAt": 1726066650631
   },
   {
     "pokedex": 100,
@@ -682,7 +779,8 @@
     "related": [
       "Voltorb",
       "Electrode"
-    ]
+    ],
+    "updatedAt": 1726066651132
   },
   {
     "pokedex": 101,
@@ -703,7 +801,8 @@
       "Exeggcute",
       "Exeggutor",
       "Alolan Exeggutor"
-    ]
+    ],
+    "updatedAt": 1726066651619
   },
   {
     "pokedex": 103,
@@ -740,7 +839,8 @@
     "related": [
       "Koffing",
       "Weezing"
-    ]
+    ],
+    "updatedAt": 1726066652668
   },
   {
     "pokedex": 110,
@@ -772,7 +872,8 @@
     "maxCP": 940,
     "related": [
       "Ditto"
-    ]
+    ],
+    "updatedAt": 1726066653141
   },
   {
     "pokedex": 133,
@@ -788,7 +889,8 @@
       "Leafeon",
       "Glaceon",
       "Sylveon"
-    ]
+    ],
+    "updatedAt": 1726066653592
   },
   {
     "pokedex": 134,
@@ -843,7 +945,8 @@
       "Leafeon",
       "Glaceon",
       "Sylveon"
-    ]
+    ],
+    "updatedAt": 1726066654030
   },
   {
     "pokedex": 138,
@@ -852,7 +955,8 @@
     "related": [
       "Omanyte",
       "Omastar"
-    ]
+    ],
+    "updatedAt": 1726066654541
   },
   {
     "pokedex": 139,
@@ -861,7 +965,8 @@
     "related": [
       "Omanyte",
       "Omastar"
-    ]
+    ],
+    "updatedAt": 1726066655050
   },
   {
     "pokedex": 147,
@@ -873,7 +978,8 @@
       "Dragonite",
       "Shadow Dratini",
       "Shadow Dragonair"
-    ]
+    ],
+    "updatedAt": 1726066655592
   },
   {
     "pokedex": 148,
@@ -917,7 +1023,8 @@
       "Dragonite",
       "Shadow Dratini",
       "Shadow Dragonair"
-    ]
+    ],
+    "updatedAt": 1726066656140
   },
   {
     "pokedex": 148,
@@ -941,7 +1048,8 @@
       "Totodile",
       "Croconaw",
       "Feraligatr"
-    ]
+    ],
+    "updatedAt": 1726066656790
   },
   {
     "pokedex": 159,
@@ -951,7 +1059,8 @@
       "Totodile",
       "Croconaw",
       "Feraligatr"
-    ]
+    ],
+    "updatedAt": 1726066657373
   },
   {
     "pokedex": 160,
@@ -975,7 +1084,8 @@
     "related": [
       "Sentret",
       "Furret"
-    ]
+    ],
+    "updatedAt": 1726066657897
   },
   {
     "pokedex": 162,
@@ -1016,7 +1126,10 @@
       "Shadow Zubat",
       "Shadow Golbat",
       "Shadow Crobat"
-    ]
+    ],
+    "gl": 2,
+    "ul": 2.5,
+    "updatedAt": 1726066658381
   },
   {
     "pokedex": 174,
@@ -1026,7 +1139,8 @@
       "Jigglypuff",
       "Wigglytuff",
       "Igglybuff"
-    ]
+    ],
+    "updatedAt": 1726066659078
   },
   {
     "pokedex": 179,
@@ -1037,7 +1151,8 @@
       "Flaaffy",
       "Ampharos",
       "Mega Ampharos"
-    ]
+    ],
+    "updatedAt": 1726066659578
   },
   {
     "pokedex": 180,
@@ -1048,7 +1163,8 @@
       "Flaaffy",
       "Ampharos",
       "Mega Ampharos"
-    ]
+    ],
+    "updatedAt": 1726066660083
   },
   {
     "pokedex": 181,
@@ -1100,7 +1216,8 @@
       "Marill",
       "Azumarill",
       "Azurill"
-    ]
+    ],
+    "updatedAt": 1726066660647
   },
   {
     "pokedex": 184,
@@ -1121,7 +1238,8 @@
     "related": [
       "Aipom",
       "Ambipom"
-    ]
+    ],
+    "updatedAt": 1726066661193
   },
   {
     "pokedex": 193,
@@ -1130,7 +1248,8 @@
     "related": [
       "Yanma",
       "Yanmega"
-    ]
+    ],
+    "updatedAt": 1726066661696
   },
   {
     "pokedex": 196,
@@ -1215,7 +1334,8 @@
     "related": [
       "Snubbull",
       "Granbull"
-    ]
+    ],
+    "updatedAt": 1726066662329
   },
   {
     "pokedex": 210,
@@ -1263,7 +1383,8 @@
     "related": [
       "Phanpy",
       "Donphan"
-    ]
+    ],
+    "updatedAt": 1726066662845
   },
   {
     "pokedex": 232,
@@ -1296,7 +1417,8 @@
     "related": [
       "Poochyena",
       "Mightyena"
-    ]
+    ],
+    "updatedAt": 1726066663390
   },
   {
     "pokedex": 262,
@@ -1317,7 +1439,8 @@
       "Seedot",
       "Nuzleaf",
       "Shiftry"
-    ]
+    ],
+    "updatedAt": 1726066663926
   },
   {
     "pokedex": 274,
@@ -1327,7 +1450,8 @@
       "Seedot",
       "Nuzleaf",
       "Shiftry"
-    ]
+    ],
+    "updatedAt": 1726066664438
   },
   {
     "pokedex": 275,
@@ -1353,7 +1477,8 @@
       "Mega Gardevoir",
       "Gallade",
       "Mega Gallade"
-    ]
+    ],
+    "updatedAt": 1726066665000
   },
   {
     "pokedex": 281,
@@ -1366,7 +1491,8 @@
       "Mega Gardevoir",
       "Gallade",
       "Mega Gallade"
-    ]
+    ],
+    "updatedAt": 1726066665653
   },
   {
     "pokedex": 282,
@@ -1408,7 +1534,8 @@
     "related": [
       "Shroomish",
       "Breloom"
-    ]
+    ],
+    "updatedAt": 1726066666189
   },
   {
     "pokedex": 286,
@@ -1432,7 +1559,8 @@
       "Nincada",
       "Ninjask",
       "Shedinja"
-    ]
+    ],
+    "updatedAt": 1726066666717
   },
   {
     "pokedex": 291,
@@ -1454,7 +1582,8 @@
       "Nincada",
       "Ninjask",
       "Shedinja"
-    ]
+    ],
+    "updatedAt": 1726066667898
   },
   {
     "pokedex": 293,
@@ -1464,7 +1593,8 @@
       "Whismur",
       "Loudred",
       "Exploud"
-    ]
+    ],
+    "updatedAt": 1726066668456
   },
   {
     "pokedex": 294,
@@ -1474,7 +1604,8 @@
       "Whismur",
       "Loudred",
       "Exploud"
-    ]
+    ],
+    "updatedAt": 1726066669020
   },
   {
     "pokedex": 295,
@@ -1497,7 +1628,8 @@
       "Hariyama",
       "Shadow Makuhita",
       "Shadow Hariyama"
-    ]
+    ],
+    "updatedAt": 1726066669544
   },
   {
     "pokedex": 297,
@@ -1524,7 +1656,8 @@
       "Hariyama",
       "Shadow Makuhita",
       "Shadow Hariyama"
-    ]
+    ],
+    "updatedAt": 1726066670150
   },
   {
     "pokedex": 297,
@@ -1551,7 +1684,8 @@
       "Marill",
       "Azumarill",
       "Azurill"
-    ]
+    ],
+    "updatedAt": 1726066670884
   },
   {
     "pokedex": 302,
@@ -1571,7 +1705,8 @@
     "related": [
       "Sableye",
       "Mega Sableye"
-    ]
+    ],
+    "updatedAt": 1726066671511
   },
   {
     "pokedex": 307,
@@ -1581,7 +1716,8 @@
       "Meditite",
       "Medicham",
       "Mega Medicham"
-    ]
+    ],
+    "updatedAt": 1726066672053
   },
   {
     "pokedex": 308,
@@ -1603,7 +1739,8 @@
       "Meditite",
       "Medicham",
       "Mega Medicham"
-    ]
+    ],
+    "updatedAt": 1726066672604
   },
   {
     "pokedex": 316,
@@ -1612,7 +1749,8 @@
     "related": [
       "Gulpin",
       "Swalot"
-    ]
+    ],
+    "updatedAt": 1726066673199
   },
   {
     "pokedex": 317,
@@ -1632,7 +1770,8 @@
     "related": [
       "Spoink",
       "Grumpig"
-    ]
+    ],
+    "updatedAt": 1726066674034
   },
   {
     "pokedex": 326,
@@ -1662,7 +1801,8 @@
     "related": [
       "Corphish",
       "Crawdaunt"
-    ]
+    ],
+    "updatedAt": 1726066674558
   },
   {
     "pokedex": 342,
@@ -1684,7 +1824,8 @@
     "related": [
       "Shadow Lileep",
       "Shadow Cradily"
-    ]
+    ],
+    "updatedAt": 1726066675096
   },
   {
     "pokedex": 346,
@@ -1694,7 +1835,8 @@
     "related": [
       "Shadow Lileep",
       "Shadow Cradily"
-    ]
+    ],
+    "updatedAt": 1726066675669
   },
   {
     "pokedex": 351,
@@ -1712,7 +1854,8 @@
     "maxCP": 2314,
     "related": [
       "Kecleon"
-    ]
+    ],
+    "updatedAt": 1726066676293
   },
   {
     "pokedex": 353,
@@ -1722,7 +1865,8 @@
       "Shuppet",
       "Banette",
       "Mega Banette"
-    ]
+    ],
+    "updatedAt": 1726066676830
   },
   {
     "pokedex": 354,
@@ -1759,7 +1903,8 @@
       "Duskull",
       "Dusclops",
       "Dusknoir"
-    ]
+    ],
+    "updatedAt": 1726066677312
   },
   {
     "pokedex": 356,
@@ -1780,7 +1925,8 @@
     "related": [
       "Wobbuffet",
       "Wynaut"
-    ]
+    ],
+    "updatedAt": 1726066677900
   },
   {
     "pokedex": 424,
@@ -1789,7 +1935,8 @@
     "related": [
       "Aipom",
       "Ambipom"
-    ]
+    ],
+    "updatedAt": 1726066678473
   },
   {
     "pokedex": 427,
@@ -1799,7 +1946,8 @@
       "Buneary",
       "Lopunny",
       "Mega Lopunny"
-    ]
+    ],
+    "updatedAt": 1726066679029
   },
   {
     "pokedex": 428,
@@ -1834,7 +1982,8 @@
     "related": [
       "Shadow Stunky",
       "Shadow Skuntank"
-    ]
+    ],
+    "updatedAt": 1726066679724
   },
   {
     "pokedex": 435,
@@ -1857,7 +2006,8 @@
       "Chansey",
       "Blissey",
       "Happiny"
-    ]
+    ],
+    "updatedAt": 1726066680295
   },
   {
     "pokedex": 469,
@@ -1940,7 +2090,8 @@
       "Mega Gardevoir",
       "Gallade",
       "Mega Gallade"
-    ]
+    ],
+    "updatedAt": 1726066680854
   },
   {
     "pokedex": 477,
@@ -1964,7 +2115,8 @@
       "Dewott",
       "Samurott",
       "Hisuian Samurott"
-    ]
+    ],
+    "updatedAt": 1726066681416
   },
   {
     "pokedex": 502,
@@ -1977,7 +2129,8 @@
       "Dewott",
       "Samurott",
       "Hisuian Samurott"
-    ]
+    ],
+    "updatedAt": 1726066681976
   },
   {
     "pokedex": 503,
@@ -2005,7 +2158,8 @@
       "Dewott",
       "Samurott",
       "Hisuian Samurott"
-    ]
+    ],
+    "updatedAt": 1726066682572
   },
   {
     "pokedex": 504,
@@ -2014,7 +2168,8 @@
     "related": [
       "Patrat",
       "Watchog"
-    ]
+    ],
+    "updatedAt": 1726066683165
   },
   {
     "pokedex": 505,
@@ -2023,7 +2178,8 @@
     "related": [
       "Patrat",
       "Watchog"
-    ]
+    ],
+    "updatedAt": 1726066683772
   },
   {
     "pokedex": 506,
@@ -2033,7 +2189,8 @@
       "Lillipup",
       "Herdier",
       "Stoutland"
-    ]
+    ],
+    "updatedAt": 1726066684314
   },
   {
     "pokedex": 507,
@@ -2044,7 +2201,8 @@
       "Lillipup",
       "Herdier",
       "Stoutland"
-    ]
+    ],
+    "updatedAt": 1726066684860
   },
   {
     "pokedex": 508,
@@ -2067,7 +2225,8 @@
     "related": [
       "Purrloin",
       "Liepard"
-    ]
+    ],
+    "updatedAt": 1726066685398
   },
   {
     "pokedex": 510,
@@ -2091,7 +2250,8 @@
     "related": [
       "Munna",
       "Musharna"
-    ]
+    ],
+    "updatedAt": 1726066686053
   },
   {
     "pokedex": 518,
@@ -2114,7 +2274,8 @@
       "Pidove",
       "Tranquill",
       "Unfezant"
-    ]
+    ],
+    "updatedAt": 1726066686614
   },
   {
     "pokedex": 520,
@@ -2125,7 +2286,8 @@
       "Pidove",
       "Tranquill",
       "Unfezant"
-    ]
+    ],
+    "updatedAt": 1726066687314
   },
   {
     "pokedex": 521,
@@ -2148,7 +2310,8 @@
     "related": [
       "Blitzle",
       "Zebstrika"
-    ]
+    ],
+    "updatedAt": 1726066687960
   },
   {
     "pokedex": 523,
@@ -2172,7 +2335,8 @@
       "Roggenrola",
       "Boldore",
       "Gigalith"
-    ]
+    ],
+    "updatedAt": 1726066688524
   },
   {
     "pokedex": 525,
@@ -2182,7 +2346,8 @@
       "Roggenrola",
       "Boldore",
       "Gigalith"
-    ]
+    ],
+    "updatedAt": 1726066689092
   },
   {
     "pokedex": 526,
@@ -2206,7 +2371,8 @@
     "related": [
       "Woobat",
       "Swoobat"
-    ]
+    ],
+    "updatedAt": 1726066689732
   },
   {
     "pokedex": 528,
@@ -2227,7 +2393,8 @@
     "related": [
       "Audino",
       "Mega Audino"
-    ]
+    ],
+    "updatedAt": 1726066690377
   },
   {
     "pokedex": 531,
@@ -2236,7 +2403,8 @@
     "related": [
       "Audino",
       "Mega Audino"
-    ]
+    ],
+    "updatedAt": 1726066691025
   },
   {
     "pokedex": 538,
@@ -2244,7 +2412,8 @@
     "maxCP": 2896,
     "related": [
       "Throh"
-    ]
+    ],
+    "updatedAt": 1726066691650
   },
   {
     "pokedex": 543,
@@ -2254,7 +2423,8 @@
       "Venipede",
       "Whirlipede",
       "Scolipede"
-    ]
+    ],
+    "updatedAt": 1726066692213
   },
   {
     "pokedex": 544,
@@ -2265,7 +2435,8 @@
       "Venipede",
       "Whirlipede",
       "Scolipede"
-    ]
+    ],
+    "updatedAt": 1726066692803
   },
   {
     "pokedex": 545,
@@ -2287,7 +2458,8 @@
     "maxCP": 2363,
     "related": [
       "Basculin"
-    ]
+    ],
+    "updatedAt": 1726066693310
   },
   {
     "pokedex": 556,
@@ -2295,7 +2467,8 @@
     "maxCP": 2571,
     "related": [
       "Maractus"
-    ]
+    ],
+    "updatedAt": 1726066693911
   },
   {
     "pokedex": 618,
@@ -2343,7 +2516,8 @@
       "Fletchling",
       "Fletchinder",
       "Talonflame"
-    ]
+    ],
+    "updatedAt": 1726066694492
   },
   {
     "pokedex": 662,
@@ -2353,7 +2527,8 @@
       "Fletchling",
       "Fletchinder",
       "Talonflame"
-    ]
+    ],
+    "updatedAt": 1726066695083
   },
   {
     "pokedex": 663,
@@ -2430,7 +2605,8 @@
       "Popplio",
       "Brionne",
       "Primarina"
-    ]
+    ],
+    "updatedAt": 1726066695726
   },
   {
     "pokedex": 729,
@@ -2440,7 +2616,8 @@
       "Popplio",
       "Brionne",
       "Primarina"
-    ]
+    ],
+    "updatedAt": 1726066696310
   },
   {
     "pokedex": 730,
@@ -2463,7 +2640,8 @@
     "maxCP": 2638,
     "related": [
       "Oricorio"
-    ]
+    ],
+    "updatedAt": 1726066696618
   },
   {
     "pokedex": 755,
@@ -2472,7 +2650,8 @@
     "related": [
       "Morelull",
       "Shiinotic"
-    ]
+    ],
+    "updatedAt": 1726066697182
   },
   {
     "pokedex": 756,
@@ -2481,7 +2660,8 @@
     "related": [
       "Morelull",
       "Shiinotic"
-    ]
+    ],
+    "updatedAt": 1726066698124
   },
   {
     "pokedex": 777,
@@ -2501,7 +2681,8 @@
     "related": [
       "Skwovet",
       "Greedent"
-    ]
+    ],
+    "updatedAt": 1726066698932
   },
   {
     "pokedex": 820,
