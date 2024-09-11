@@ -8,7 +8,7 @@
       "Ivysaur",
       "Venusaur"
     ],
-    "updatedAt": 1726066630505
+    "updatedAt": 1726096493642
   },
   {
     "pokedex": 2,
@@ -20,12 +20,12 @@
       "Ivysaur",
       "Venusaur"
     ],
-    "updatedAt": 1726064198493
+    "updatedAt": 1726096494106
   },
   {
     "pokedex": 3,
     "name": "Venusaur",
-    "maxCP": 2720,
+    "maxCP": 3075,
     "ul": 3.5,
     "ml": 2,
     "tier": "B",
@@ -35,7 +35,7 @@
       "Venusaur"
     ],
     "gl": 4,
-    "updatedAt": 1726064198978
+    "updatedAt": 1726096494725
   },
   {
     "pokedex": 4,
@@ -46,7 +46,7 @@
       "Charmeleon",
       "Charizard"
     ],
-    "updatedAt": 1726066631044
+    "updatedAt": 1726096495159
   },
   {
     "pokedex": 10,
@@ -57,7 +57,7 @@
       "Metapod",
       "Butterfree"
     ],
-    "updatedAt": 1726066631399
+    "updatedAt": 1726096495655
   },
   {
     "pokedex": 11,
@@ -68,19 +68,19 @@
       "Metapod",
       "Butterfree"
     ],
-    "updatedAt": 1726066631829
+    "updatedAt": 1726096496185
   },
   {
     "pokedex": 12,
     "name": "Butterfree",
-    "maxCP": 1827,
+    "maxCP": 2065,
     "related": [
       "Caterpie",
       "Metapod",
       "Butterfree"
     ],
     "gl": 1,
-    "updatedAt": 1726066632249
+    "updatedAt": 1726096497023
   },
   {
     "pokedex": 16,
@@ -92,7 +92,7 @@
       "Pidgeot",
       "Mega Pidgeot"
     ],
-    "updatedAt": 1726066632818
+    "updatedAt": 1726096497473
   },
   {
     "pokedex": 17,
@@ -104,7 +104,7 @@
       "Pidgeot",
       "Mega Pidgeot"
     ],
-    "updatedAt": 1726066633289
+    "updatedAt": 1726096498152
   },
   {
     "pokedex": 18,
@@ -119,7 +119,7 @@
       "Pidgeot",
       "Mega Pidgeot"
     ],
-    "updatedAt": 1726064201513
+    "updatedAt": 1726096498645
   },
   {
     "pokedex": 18,
@@ -132,7 +132,7 @@
       "Pidgeot",
       "Mega Pidgeot"
     ],
-    "updatedAt": 1726064201978
+    "updatedAt": 1726096499204
   },
   {
     "pokedex": 19,
@@ -142,7 +142,7 @@
       "Rattata",
       "Raticate"
     ],
-    "updatedAt": 1726066633744
+    "updatedAt": 1726096499762
   },
   {
     "pokedex": 20,
@@ -152,7 +152,7 @@
       "Rattata",
       "Raticate"
     ],
-    "updatedAt": 1726066634253
+    "updatedAt": 1726096500403
   },
   {
     "pokedex": 21,
@@ -162,7 +162,7 @@
       "Spearow",
       "Fearow"
     ],
-    "updatedAt": 1726066634780
+    "updatedAt": 1726096500898
   },
   {
     "pokedex": 22,
@@ -173,7 +173,7 @@
       "Spearow",
       "Fearow"
     ],
-    "updatedAt": 1726064204038
+    "updatedAt": 1726096501474
   },
   {
     "pokedex": 23,
@@ -183,7 +183,7 @@
       "Ekans",
       "Arbok"
     ],
-    "updatedAt": 1726066635276
+    "updatedAt": 1726096501967
   },
   {
     "pokedex": 24,
@@ -193,7 +193,7 @@
       "Ekans",
       "Arbok"
     ],
-    "updatedAt": 1726066635785
+    "updatedAt": 1726096502495
   },
   {
     "pokedex": 27,
@@ -204,7 +204,7 @@
       "Sandshrew",
       "Sandslash"
     ],
-    "updatedAt": 1726064205869
+    "updatedAt": 1726096503104
   },
   {
     "pokedex": 28,
@@ -216,7 +216,7 @@
       "Sandshrew",
       "Sandslash"
     ],
-    "updatedAt": 1726064206673
+    "updatedAt": 1726096503723
   },
   {
     "pokedex": 29,
@@ -227,7 +227,7 @@
       "Nidorina",
       "Nidoqueen"
     ],
-    "updatedAt": 1726066636083
+    "updatedAt": 1726096504256
   },
   {
     "pokedex": 30,
@@ -238,12 +238,12 @@
       "Nidorina",
       "Nidoqueen"
     ],
-    "updatedAt": 1726066636653
+    "updatedAt": 1726096504755
   },
   {
     "pokedex": 31,
     "name": "Nidoqueen",
-    "maxCP": 2488,
+    "maxCP": 2812,
     "related": [
       "Nidoran♀",
       "Nidorina",
@@ -251,7 +251,7 @@
     ],
     "gl": 3.5,
     "ul": 3.5,
-    "updatedAt": 1726066637187
+    "updatedAt": 1726096505318
   },
   {
     "pokedex": 39,
@@ -262,7 +262,7 @@
       "Wigglytuff",
       "Igglybuff"
     ],
-    "updatedAt": 1726066637765
+    "updatedAt": 1726096505915
   },
   {
     "pokedex": 40,
@@ -276,7 +276,7 @@
       "Wigglytuff",
       "Igglybuff"
     ],
-    "updatedAt": 1726064207909
+    "updatedAt": 1726096507085
   },
   {
     "pokedex": 41,
@@ -290,12 +290,12 @@
       "Shadow Golbat",
       "Shadow Crobat"
     ],
-    "updatedAt": 1726066638293
+    "updatedAt": 1726096507654
   },
   {
     "pokedex": 42,
     "name": "Golbat",
-    "maxCP": 1976,
+    "maxCP": 2234,
     "gl": 2.5,
     "ul": 1,
     "iv": 80,
@@ -304,7 +304,7 @@
       "Golbat",
       "Crobat"
     ],
-    "updatedAt": 1726064208912
+    "updatedAt": 1726096508361
   },
   {
     "pokedex": 41,
@@ -318,12 +318,12 @@
       "Shadow Golbat",
       "Shadow Crobat"
     ],
-    "updatedAt": 1726066638958
+    "updatedAt": 1726096509050
   },
   {
     "pokedex": 42,
     "name": "Shadow Golbat",
-    "maxCP": 1976,
+    "maxCP": 2234,
     "related": [
       "Zubat",
       "Golbat",
@@ -332,7 +332,7 @@
       "Shadow Golbat",
       "Shadow Crobat"
     ],
-    "updatedAt": 1726066640004
+    "updatedAt": 1726096509682
   },
   {
     "pokedex": 43,
@@ -344,7 +344,7 @@
       "Vileplume",
       "Bellossom"
     ],
-    "updatedAt": 1726066640541
+    "updatedAt": 1726096510222
   },
   {
     "pokedex": 44,
@@ -357,7 +357,7 @@
       "Vileplume",
       "Bellossom"
     ],
-    "updatedAt": 1726064209929
+    "updatedAt": 1726096510832
   },
   {
     "pokedex": 45,
@@ -371,7 +371,7 @@
       "Vileplume",
       "Bellossom"
     ],
-    "updatedAt": 1726064210486
+    "updatedAt": 1726096511630
   },
   {
     "pokedex": 46,
@@ -381,7 +381,7 @@
       "Paras",
       "Parasect"
     ],
-    "updatedAt": 1726066640987
+    "updatedAt": 1726096512320
   },
   {
     "pokedex": 47,
@@ -391,7 +391,7 @@
       "Paras",
       "Parasect"
     ],
-    "updatedAt": 1726066641512
+    "updatedAt": 1726096513151
   },
   {
     "pokedex": 48,
@@ -401,7 +401,7 @@
       "Venonat",
       "Venomoth"
     ],
-    "updatedAt": 1726066641972
+    "updatedAt": 1726096513873
   },
   {
     "pokedex": 49,
@@ -412,7 +412,7 @@
       "Venonat",
       "Venomoth"
     ],
-    "updatedAt": 1726064212947
+    "updatedAt": 1726096514570
   },
   {
     "pokedex": 52,
@@ -422,7 +422,7 @@
       "Meowth",
       "Persian"
     ],
-    "updatedAt": 1726066642438
+    "updatedAt": 1726096515186
   },
   {
     "pokedex": 53,
@@ -434,7 +434,7 @@
       "Meowth",
       "Persian"
     ],
-    "updatedAt": 1726064213830
+    "updatedAt": 1726096515811
   },
   {
     "pokedex": 52,
@@ -444,7 +444,7 @@
       "Galarian Meowth",
       "Perrserker"
     ],
-    "updatedAt": 1726066643056
+    "updatedAt": 1726096516443
   },
   {
     "pokedex": 56,
@@ -455,12 +455,12 @@
       "Primeape",
       "Annihilape"
     ],
-    "updatedAt": 1726066643531
+    "updatedAt": 1726096517155
   },
   {
     "pokedex": 57,
     "name": "Primeape",
-    "maxCP": 2293,
+    "maxCP": 2586,
     "gl": 3.5,
     "ul": 3,
     "iv": 91,
@@ -469,7 +469,7 @@
       "Primeape",
       "Annihilape"
     ],
-    "updatedAt": 1726064215975
+    "updatedAt": 1726096517873
   },
   {
     "pokedex": 58,
@@ -479,7 +479,7 @@
       "Growlithe",
       "Arcanine"
     ],
-    "updatedAt": 1726066644112
+    "updatedAt": 1726096518607
   },
   {
     "pokedex": 59,
@@ -493,7 +493,7 @@
       "Growlithe",
       "Arcanine"
     ],
-    "updatedAt": 1726064217003
+    "updatedAt": 1726096519388
   },
   {
     "pokedex": 63,
@@ -505,7 +505,7 @@
       "Alakazam",
       "Mega Alakazam"
     ],
-    "updatedAt": 1726066644575
+    "updatedAt": 1726096520045
   },
   {
     "pokedex": 64,
@@ -517,12 +517,12 @@
       "Alakazam",
       "Mega Alakazam"
     ],
-    "updatedAt": 1726066645141
+    "updatedAt": 1726096520669
   },
   {
     "pokedex": 65,
     "name": "Alakazam",
-    "maxCP": 3057,
+    "maxCP": 3456,
     "gl": 1.5,
     "ul": 1.5,
     "tier": "C",
@@ -534,7 +534,7 @@
       "Alakazam",
       "Mega Alakazam"
     ],
-    "updatedAt": 1726064218795
+    "updatedAt": 1726096521287
   },
   {
     "pokedex": 65,
@@ -547,7 +547,7 @@
       "Alakazam",
       "Mega Alakazam"
     ],
-    "updatedAt": 1726064219315
+    "updatedAt": 1726096522088
   },
   {
     "pokedex": 66,
@@ -558,7 +558,7 @@
       "Machoke",
       "Machamp"
     ],
-    "updatedAt": 1726066645654
+    "updatedAt": 1726096522705
   },
   {
     "pokedex": 67,
@@ -570,7 +570,7 @@
       "Machoke",
       "Machamp"
     ],
-    "updatedAt": 1726064220579
+    "updatedAt": 1726096523314
   },
   {
     "pokedex": 68,
@@ -586,7 +586,7 @@
       "Machoke",
       "Machamp"
     ],
-    "updatedAt": 1726064221097
+    "updatedAt": 1726096523892
   },
   {
     "pokedex": 69,
@@ -597,7 +597,7 @@
       "Weepinbell",
       "Victreebel"
     ],
-    "updatedAt": 1726066646190
+    "updatedAt": 1726096524556
   },
   {
     "pokedex": 70,
@@ -609,7 +609,7 @@
       "Victreebel"
     ],
     "gl": 2.5,
-    "updatedAt": 1726066646673
+    "updatedAt": 1726096525262
   },
   {
     "pokedex": 71,
@@ -623,7 +623,7 @@
     "tier": "C",
     "gl": 3.5,
     "ul": 2,
-    "updatedAt": 1726066647140
+    "updatedAt": 1726096525886
   },
   {
     "pokedex": 74,
@@ -634,7 +634,7 @@
       "Graveler",
       "Golem"
     ],
-    "updatedAt": 1726066647616
+    "updatedAt": 1726096526525
   },
   {
     "pokedex": 75,
@@ -645,7 +645,7 @@
       "Graveler",
       "Golem"
     ],
-    "updatedAt": 1726066648086
+    "updatedAt": 1726096527250
   },
   {
     "pokedex": 76,
@@ -660,7 +660,7 @@
       "Golem"
     ],
     "tier": "C",
-    "updatedAt": 1726064222881
+    "updatedAt": 1726096529103
   },
   {
     "pokedex": 77,
@@ -670,7 +670,7 @@
       "Galarian Ponyta",
       "Galarian Rapidash"
     ],
-    "updatedAt": 1726066648547
+    "updatedAt": 1726096529782
   },
   {
     "pokedex": 78,
@@ -682,7 +682,46 @@
     ],
     "gl": 2,
     "ul": 2.5,
-    "updatedAt": 1726066649042
+    "updatedAt": 1726096530373
+  },
+  {
+    "pokedex": 79,
+    "name": "Slowpoke",
+    "maxCP": 1386,
+    "related": [
+      "Slowpoke",
+      "Slowbro",
+      "Slowking",
+      "Mega Slowbro"
+    ],
+    "gl": 1.5,
+    "updatedAt": 1726096531202
+  },
+  {
+    "pokedex": 80,
+    "name": "Slowbro",
+    "maxCP": 2877,
+    "related": [
+      "Slowpoke",
+      "Slowbro",
+      "Slowking",
+      "Mega Slowbro"
+    ],
+    "gl": 3,
+    "ul": 3,
+    "updatedAt": 1726096532016
+  },
+  {
+    "pokedex": 80,
+    "name": "Mega Slowbro",
+    "maxCP": 4245,
+    "related": [
+      "Slowpoke",
+      "Slowbro",
+      "Slowking",
+      "Mega Slowbro"
+    ],
+    "updatedAt": 1726096532681
   },
   {
     "pokedex": 88,
@@ -692,7 +731,7 @@
       "Grimer",
       "Muk"
     ],
-    "updatedAt": 1726066649554
+    "updatedAt": 1726096533401
   },
   {
     "pokedex": 89,
@@ -704,7 +743,7 @@
       "Grimer",
       "Muk"
     ],
-    "updatedAt": 1726064223871
+    "updatedAt": 1726096534120
   },
   {
     "pokedex": 92,
@@ -716,7 +755,7 @@
       "Gengar",
       "Mega Gengar"
     ],
-    "updatedAt": 1726066650193
+    "updatedAt": 1726096534829
   },
   {
     "pokedex": 93,
@@ -729,7 +768,7 @@
       "Gengar",
       "Mega Gengar"
     ],
-    "updatedAt": 1726064225022
+    "updatedAt": 1726096535420
   },
   {
     "pokedex": 94,
@@ -746,7 +785,7 @@
       "Gengar",
       "Mega Gengar"
     ],
-    "updatedAt": 1726064225518
+    "updatedAt": 1726096536176
   },
   {
     "pokedex": 94,
@@ -759,7 +798,7 @@
       "Gengar",
       "Mega Gengar"
     ],
-    "updatedAt": 1726064226009
+    "updatedAt": 1726096536881
   },
   {
     "pokedex": 95,
@@ -770,7 +809,7 @@
       "Steelix",
       "Mega Steelix"
     ],
-    "updatedAt": 1726066650631
+    "updatedAt": 1726096538173
   },
   {
     "pokedex": 100,
@@ -778,9 +817,11 @@
     "maxCP": 1141,
     "related": [
       "Voltorb",
-      "Electrode"
+      "Electrode",
+      "Hisuian Voltorb",
+      "Hisuian Electrode"
     ],
-    "updatedAt": 1726066651132
+    "updatedAt": 1726096538804
   },
   {
     "pokedex": 101,
@@ -791,7 +832,33 @@
       "Voltorb",
       "Electrode"
     ],
-    "updatedAt": 1726064228022
+    "updatedAt": 1726096539476
+  },
+  {
+    "pokedex": 100,
+    "name": "Hisuian Voltorb",
+    "maxCP": 1141,
+    "related": [
+      "Voltorb",
+      "Electrode",
+      "Hisuian Voltorb",
+      "Hisuian Electrode"
+    ],
+    "updatedAt": 1726096540121
+  },
+  {
+    "pokedex": 101,
+    "name": "Hisuian Electrode",
+    "maxCP": 2430,
+    "related": [
+      "Voltorb",
+      "Electrode",
+      "Hisuian Voltorb",
+      "Hisuian Electrode"
+    ],
+    "gl": 2,
+    "ul": 2,
+    "updatedAt": 1726096540853
   },
   {
     "pokedex": 102,
@@ -802,12 +869,12 @@
       "Exeggutor",
       "Alolan Exeggutor"
     ],
-    "updatedAt": 1726066651619
+    "updatedAt": 1726096541509
   },
   {
     "pokedex": 103,
     "name": "Exeggutor",
-    "maxCP": 3014,
+    "maxCP": 3408,
     "gl": 1.5,
     "ul": 1.5,
     "tier": "C",
@@ -816,7 +883,7 @@
       "Exeggutor",
       "Alolan Exeggutor"
     ],
-    "updatedAt": 1726064228981
+    "updatedAt": 1726096542429
   },
   {
     "pokedex": 103,
@@ -830,7 +897,34 @@
       "Exeggutor",
       "Alolan Exeggutor"
     ],
-    "updatedAt": 1726064229555
+    "updatedAt": 1726096543089
+  },
+  {
+    "pokedex": 106,
+    "name": "Hitmonlee",
+    "maxCP": 2912,
+    "related": [
+      "Tyrogue",
+      "Hitmonlee",
+      "Hitmonchan",
+      "Hitmontop"
+    ],
+    "gl": 1.5,
+    "updatedAt": 1726096543689
+  },
+  {
+    "pokedex": 107,
+    "name": "Hitmonchan",
+    "maxCP": 2636,
+    "related": [
+      "Tyrogue",
+      "Hitmonlee",
+      "Hitmonchan",
+      "Hitmontop"
+    ],
+    "gl": 2.5,
+    "ul": 2.5,
+    "updatedAt": 1726096544320
   },
   {
     "pokedex": 109,
@@ -840,7 +934,7 @@
       "Koffing",
       "Weezing"
     ],
-    "updatedAt": 1726066652668
+    "updatedAt": 1726096544956
   },
   {
     "pokedex": 110,
@@ -852,7 +946,7 @@
       "Koffing",
       "Weezing"
     ],
-    "updatedAt": 1726064231279
+    "updatedAt": 1726096545586
   },
   {
     "pokedex": 113,
@@ -864,7 +958,19 @@
       "Blissey",
       "Happiny"
     ],
-    "updatedAt": 1726064231962
+    "updatedAt": 1726096546258
+  },
+  {
+    "pokedex": 114,
+    "name": "Tangela",
+    "maxCP": 2530,
+    "related": [
+      "Tangela",
+      "Tangrowth"
+    ],
+    "gl": 2.5,
+    "ul": 1,
+    "updatedAt": 1726096547083
   },
   {
     "pokedex": 132,
@@ -873,7 +979,7 @@
     "related": [
       "Ditto"
     ],
-    "updatedAt": 1726066653141
+    "updatedAt": 1726096547729
   },
   {
     "pokedex": 133,
@@ -890,7 +996,7 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726066653592
+    "updatedAt": 1726096548490
   },
   {
     "pokedex": 134,
@@ -909,7 +1015,7 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726064233912
+    "updatedAt": 1726096549211
   },
   {
     "pokedex": 135,
@@ -929,7 +1035,7 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726064234548
+    "updatedAt": 1726096550088
   },
   {
     "pokedex": 136,
@@ -946,7 +1052,7 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726066654030
+    "updatedAt": 1726096550740
   },
   {
     "pokedex": 138,
@@ -956,7 +1062,7 @@
       "Omanyte",
       "Omastar"
     ],
-    "updatedAt": 1726066654541
+    "updatedAt": 1726096551776
   },
   {
     "pokedex": 139,
@@ -966,7 +1072,32 @@
       "Omanyte",
       "Omastar"
     ],
-    "updatedAt": 1726066655050
+    "updatedAt": 1726096552572
+  },
+  {
+    "pokedex": 143,
+    "name": "Snorlax",
+    "maxCP": 3647,
+    "related": [
+      "Snorlax",
+      "Munchlax"
+    ],
+    "gl": 3,
+    "ul": 3,
+    "ml": 3,
+    "updatedAt": 1726096553322
+  },
+  {
+    "pokedex": 143,
+    "name": "Shadow Snorlax",
+    "maxCP": 3647,
+    "related": [
+      "Shadow Snorlax"
+    ],
+    "gl": 3,
+    "ul": 4,
+    "ml": 3.5,
+    "updatedAt": 1726096554046
   },
   {
     "pokedex": 147,
@@ -979,7 +1110,7 @@
       "Shadow Dratini",
       "Shadow Dragonair"
     ],
-    "updatedAt": 1726066655592
+    "updatedAt": 1726096554941
   },
   {
     "pokedex": 148,
@@ -993,12 +1124,12 @@
       "Shadow Dratini",
       "Shadow Dragonair"
     ],
-    "updatedAt": 1726064238589
+    "updatedAt": 1726096555894
   },
   {
     "pokedex": 149,
     "name": "Dragonite",
-    "maxCP": 3792,
+    "maxCP": 4287,
     "gl": 4,
     "ul": 4.5,
     "ml": 4,
@@ -1011,7 +1142,7 @@
       "Shadow Dratini",
       "Shadow Dragonair"
     ],
-    "updatedAt": 1726064239141
+    "updatedAt": 1726096556628
   },
   {
     "pokedex": 147,
@@ -1024,7 +1155,7 @@
       "Shadow Dratini",
       "Shadow Dragonair"
     ],
-    "updatedAt": 1726066656140
+    "updatedAt": 1726096557507
   },
   {
     "pokedex": 148,
@@ -1038,7 +1169,7 @@
       "Shadow Dratini",
       "Shadow Dragonair"
     ],
-    "updatedAt": 1726064241428
+    "updatedAt": 1726096558557
   },
   {
     "pokedex": 158,
@@ -1049,7 +1180,7 @@
       "Croconaw",
       "Feraligatr"
     ],
-    "updatedAt": 1726066656790
+    "updatedAt": 1726096559287
   },
   {
     "pokedex": 159,
@@ -1060,7 +1191,7 @@
       "Croconaw",
       "Feraligatr"
     ],
-    "updatedAt": 1726066657373
+    "updatedAt": 1726096559974
   },
   {
     "pokedex": 160,
@@ -1075,7 +1206,7 @@
       "Croconaw",
       "Feraligatr"
     ],
-    "updatedAt": 1726064243377
+    "updatedAt": 1726096560753
   },
   {
     "pokedex": 161,
@@ -1085,7 +1216,7 @@
       "Sentret",
       "Furret"
     ],
-    "updatedAt": 1726066657897
+    "updatedAt": 1726096561500
   },
   {
     "pokedex": 162,
@@ -1096,12 +1227,12 @@
       "Sentret",
       "Furret"
     ],
-    "updatedAt": 1726064244571
+    "updatedAt": 1726096562333
   },
   {
     "pokedex": 169,
     "name": "Crobat",
-    "maxCP": 2937,
+    "maxCP": 2992,
     "gl": 2,
     "ul": 2.5,
     "tier": "B",
@@ -1113,7 +1244,7 @@
       "Shadow Golbat",
       "Shadow Crobat"
     ],
-    "updatedAt": 1726064245168
+    "updatedAt": 1726096563073
   },
   {
     "pokedex": 169,
@@ -1129,7 +1260,29 @@
     ],
     "gl": 2,
     "ul": 2.5,
-    "updatedAt": 1726066658381
+    "updatedAt": 1726096563823
+  },
+  {
+    "pokedex": 170,
+    "name": "Chinchou",
+    "maxCP": 1265,
+    "related": [
+      "Chinchou",
+      "Lanturn"
+    ],
+    "updatedAt": 1726096564717
+  },
+  {
+    "pokedex": 171,
+    "name": "Lanturn",
+    "maxCP": 2357,
+    "related": [
+      "Chinchou",
+      "Lanturn"
+    ],
+    "gl": 4.5,
+    "ul": 3,
+    "updatedAt": 1726096565574
   },
   {
     "pokedex": 174,
@@ -1140,7 +1293,7 @@
       "Wigglytuff",
       "Igglybuff"
     ],
-    "updatedAt": 1726066659078
+    "updatedAt": 1726096566333
   },
   {
     "pokedex": 179,
@@ -1152,7 +1305,7 @@
       "Ampharos",
       "Mega Ampharos"
     ],
-    "updatedAt": 1726066659578
+    "updatedAt": 1726096567140
   },
   {
     "pokedex": 180,
@@ -1164,7 +1317,7 @@
       "Ampharos",
       "Mega Ampharos"
     ],
-    "updatedAt": 1726066660083
+    "updatedAt": 1726096567961
   },
   {
     "pokedex": 181,
@@ -1179,7 +1332,7 @@
       "Ampharos",
       "Mega Ampharos"
     ],
-    "updatedAt": 1726064249736
+    "updatedAt": 1726096568711
   },
   {
     "pokedex": 181,
@@ -1192,7 +1345,7 @@
       "Ampharos",
       "Mega Ampharos"
     ],
-    "updatedAt": 1726064250254
+    "updatedAt": 1726096569929
   },
   {
     "pokedex": 182,
@@ -1206,7 +1359,7 @@
       "Vileplume",
       "Bellossom"
     ],
-    "updatedAt": 1726064250852
+    "updatedAt": 1726096570709
   },
   {
     "pokedex": 183,
@@ -1217,7 +1370,7 @@
       "Azumarill",
       "Azurill"
     ],
-    "updatedAt": 1726066660647
+    "updatedAt": 1726096571470
   },
   {
     "pokedex": 184,
@@ -1229,7 +1382,52 @@
       "Azumarill",
       "Azurill"
     ],
-    "updatedAt": 1726064252211
+    "updatedAt": 1726096572297
+  },
+  {
+    "pokedex": 185,
+    "name": "Sudowoodo",
+    "maxCP": 2428,
+    "related": [
+      "Sudowoodo"
+    ],
+    "gl": 2,
+    "ul": 2,
+    "updatedAt": 1726096573169
+  },
+  {
+    "pokedex": 187,
+    "name": "Hoppip",
+    "maxCP": 678,
+    "related": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff"
+    ],
+    "updatedAt": 1726096573912
+  },
+  {
+    "pokedex": 188,
+    "name": "Skiploom",
+    "maxCP": 1103,
+    "related": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff"
+    ],
+    "updatedAt": 1726096574856
+  },
+  {
+    "pokedex": 189,
+    "name": "Jumpluff",
+    "maxCP": 1850,
+    "related": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff"
+    ],
+    "gl": 4.5,
+    "updatedAt": 1726096575636
   },
   {
     "pokedex": 190,
@@ -1239,7 +1437,7 @@
       "Aipom",
       "Ambipom"
     ],
-    "updatedAt": 1726066661193
+    "updatedAt": 1726096576453
   },
   {
     "pokedex": 193,
@@ -1249,7 +1447,7 @@
       "Yanma",
       "Yanmega"
     ],
-    "updatedAt": 1726066661696
+    "updatedAt": 1726096577311
   },
   {
     "pokedex": 196,
@@ -1270,7 +1468,7 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726064254306
+    "updatedAt": 1726096578270
   },
   {
     "pokedex": 197,
@@ -1289,7 +1487,21 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726064254899
+    "updatedAt": 1726096579189
+  },
+  {
+    "pokedex": 199,
+    "name": "Slowking",
+    "maxCP": 2877,
+    "related": [
+      "Slowpoke",
+      "Slowbro",
+      "Slowking",
+      "Mega Slowbro"
+    ],
+    "gl": 2,
+    "ul": 2,
+    "updatedAt": 1726096580226
   },
   {
     "pokedex": 202,
@@ -1300,7 +1512,7 @@
       "Wobbuffet",
       "Wynaut"
     ],
-    "updatedAt": 1726064255677
+    "updatedAt": 1726096580917
   },
   {
     "pokedex": 208,
@@ -1313,7 +1525,7 @@
       "Steelix",
       "Mega Steelix"
     ],
-    "updatedAt": 1726064256353
+    "updatedAt": 1726096581776
   },
   {
     "pokedex": 208,
@@ -1325,7 +1537,7 @@
       "Steelix",
       "Mega Steelix"
     ],
-    "updatedAt": 1726064257012
+    "updatedAt": 1726096582600
   },
   {
     "pokedex": 209,
@@ -1335,7 +1547,7 @@
       "Snubbull",
       "Granbull"
     ],
-    "updatedAt": 1726066662329
+    "updatedAt": 1726096583371
   },
   {
     "pokedex": 210,
@@ -1350,7 +1562,7 @@
       "Snubbull",
       "Granbull"
     ],
-    "updatedAt": 1726064258385
+    "updatedAt": 1726096584690
   },
   {
     "pokedex": 214,
@@ -1363,7 +1575,7 @@
       "Heracross",
       "Mega Heracross"
     ],
-    "updatedAt": 1726064258971
+    "updatedAt": 1726096585689
   },
   {
     "pokedex": 214,
@@ -1374,7 +1586,105 @@
       "Heracross",
       "Mega Heracross"
     ],
-    "updatedAt": 1726064259531
+    "updatedAt": 1726096586554
+  },
+  {
+    "pokedex": 216,
+    "name": "Teddiursa",
+    "maxCP": 1502,
+    "related": [
+      "Teddiursa",
+      "Ursaring"
+    ],
+    "updatedAt": 1726096587439
+  },
+  {
+    "pokedex": 217,
+    "name": "Ursaring",
+    "maxCP": 3329,
+    "relted": [
+      "Teddiursa",
+      "Ursaring",
+      "Ursaluna"
+    ],
+    "gl": 3.5,
+    "ul": 3.5,
+    "updatedAt": 1726096588211
+  },
+  {
+    "pokedex": 223,
+    "name": "Remoraid",
+    "maxCP": 1031,
+    "related": [
+      "Remoraid",
+      "Octillery"
+    ],
+    "updatedAt": 1726096589026
+  },
+  {
+    "pokedex": 224,
+    "name": "Octillery",
+    "maxCP": 2617,
+    "related": [
+      "Remoraid",
+      "Octillery"
+    ],
+    "updatedAt": 1726096589966
+  },
+  {
+    "pokedex": 225,
+    "name": "Delibird",
+    "maxCP": 1237,
+    "related": [
+      "Delibird"
+    ],
+    "updatedAt": 1726096590767
+  },
+  {
+    "pokedex": 226,
+    "name": "Mantine",
+    "maxCP": 2383,
+    "related": [
+      "Mantine"
+    ],
+    "gl": 4,
+    "ul": 2,
+    "updatedAt": 1726096591705
+  },
+  {
+    "pokedex": 227,
+    "name": "Skarmory",
+    "maxCP": 2383,
+    "related": [
+      "Skarmory"
+    ],
+    "gl": 3,
+    "ul": 2,
+    "updatedAt": 1726096592622
+  },
+  {
+    "pokedex": 228,
+    "name": "Houndour",
+    "maxCP": 1395,
+    "related": [
+      "Houndour",
+      "Houndoom",
+      "Mega Houndoom"
+    ],
+    "updatedAt": 1726096593509
+  },
+  {
+    "pokedex": 229,
+    "name": "Houndoom",
+    "maxCP": 2979,
+    "related": [
+      "Houndour",
+      "Houndoom",
+      "Mega Houndoom"
+    ],
+    "gl": 2,
+    "ul": 1.5,
+    "updatedAt": 1726096594400
   },
   {
     "pokedex": 231,
@@ -1384,7 +1694,7 @@
       "Phanpy",
       "Donphan"
     ],
-    "updatedAt": 1726066662845
+    "updatedAt": 1726096595268
   },
   {
     "pokedex": 232,
@@ -1396,7 +1706,33 @@
       "Phanpy",
       "Donphan"
     ],
-    "updatedAt": 1726064260907
+    "updatedAt": 1726096596121
+  },
+  {
+    "pokedex": 236,
+    "name": "Tyrogue",
+    "maxCP": 556,
+    "related": [
+      "Tyrogue",
+      "Hitmonlee",
+      "Hitmonchan",
+      "Hitmontop"
+    ],
+    "updatedAt": 1726096597219
+  },
+  {
+    "pokedex": 237,
+    "name": "Hitmontop",
+    "maxCP": 2438,
+    "related": [
+      "Tyrogue",
+      "Hitmonlee",
+      "Hitmonchan",
+      "Hitmontop"
+    ],
+    "gl": 2,
+    "ul": 2,
+    "updatedAt": 1726096598363
   },
   {
     "pokedex": 242,
@@ -1408,7 +1744,7 @@
       "Blissey",
       "Happiny"
     ],
-    "updatedAt": 1726064261556
+    "updatedAt": 1726096599439
   },
   {
     "pokedex": 261,
@@ -1418,7 +1754,7 @@
       "Poochyena",
       "Mightyena"
     ],
-    "updatedAt": 1726066663390
+    "updatedAt": 1726096600292
   },
   {
     "pokedex": 262,
@@ -1429,7 +1765,7 @@
       "Poochyena",
       "Mightyena"
     ],
-    "updatedAt": 1726064263054
+    "updatedAt": 1726096601170
   },
   {
     "pokedex": 273,
@@ -1440,7 +1776,7 @@
       "Nuzleaf",
       "Shiftry"
     ],
-    "updatedAt": 1726066663926
+    "updatedAt": 1726096602570
   },
   {
     "pokedex": 274,
@@ -1451,7 +1787,7 @@
       "Nuzleaf",
       "Shiftry"
     ],
-    "updatedAt": 1726066664438
+    "updatedAt": 1726096603668
   },
   {
     "pokedex": 275,
@@ -1464,7 +1800,7 @@
       "Nuzleaf",
       "Shiftry"
     ],
-    "updatedAt": 1726064265615
+    "updatedAt": 1726096604652
   },
   {
     "pokedex": 280,
@@ -1478,7 +1814,7 @@
       "Gallade",
       "Mega Gallade"
     ],
-    "updatedAt": 1726066665000
+    "updatedAt": 1726096605628
   },
   {
     "pokedex": 281,
@@ -1492,7 +1828,7 @@
       "Gallade",
       "Mega Gallade"
     ],
-    "updatedAt": 1726066665653
+    "updatedAt": 1726096606416
   },
   {
     "pokedex": 282,
@@ -1510,7 +1846,7 @@
       "Gallade",
       "Mega Gallade"
     ],
-    "updatedAt": 1726064267958
+    "updatedAt": 1726096607275
   },
   {
     "pokedex": 282,
@@ -1525,7 +1861,7 @@
       "Gallade",
       "Mega Gallade"
     ],
-    "updatedAt": 1726064268739
+    "updatedAt": 1726096608712
   },
   {
     "pokedex": 285,
@@ -1535,7 +1871,7 @@
       "Shroomish",
       "Breloom"
     ],
-    "updatedAt": 1726066666189
+    "updatedAt": 1726096609788
   },
   {
     "pokedex": 286,
@@ -1549,7 +1885,7 @@
       "Shroomish",
       "Breloom"
     ],
-    "updatedAt": 1726064270173
+    "updatedAt": 1726096610574
   },
   {
     "pokedex": 290,
@@ -1560,7 +1896,7 @@
       "Ninjask",
       "Shedinja"
     ],
-    "updatedAt": 1726066666717
+    "updatedAt": 1726096611518
   },
   {
     "pokedex": 291,
@@ -1572,7 +1908,7 @@
       "Ninjask",
       "Shedinja"
     ],
-    "updatedAt": 1726064271594
+    "updatedAt": 1726096612485
   },
   {
     "pokedex": 292,
@@ -1583,7 +1919,7 @@
       "Ninjask",
       "Shedinja"
     ],
-    "updatedAt": 1726066667898
+    "updatedAt": 1726096613478
   },
   {
     "pokedex": 293,
@@ -1594,7 +1930,7 @@
       "Loudred",
       "Exploud"
     ],
-    "updatedAt": 1726066668456
+    "updatedAt": 1726096614717
   },
   {
     "pokedex": 294,
@@ -1605,7 +1941,7 @@
       "Loudred",
       "Exploud"
     ],
-    "updatedAt": 1726066669020
+    "updatedAt": 1726096615610
   },
   {
     "pokedex": 295,
@@ -1617,7 +1953,7 @@
       "Loudred",
       "Exploud"
     ],
-    "updatedAt": 1726064274435
+    "updatedAt": 1726096616740
   },
   {
     "pokedex": 296,
@@ -1629,7 +1965,7 @@
       "Shadow Makuhita",
       "Shadow Hariyama"
     ],
-    "updatedAt": 1726066669544
+    "updatedAt": 1726096617632
   },
   {
     "pokedex": 297,
@@ -1645,7 +1981,7 @@
       "Shadow Makuhita",
       "Shadow Hariyama"
     ],
-    "updatedAt": 1726064275708
+    "updatedAt": 1726096618811
   },
   {
     "pokedex": 296,
@@ -1657,7 +1993,7 @@
       "Shadow Makuhita",
       "Shadow Hariyama"
     ],
-    "updatedAt": 1726066670150
+    "updatedAt": 1726096619941
   },
   {
     "pokedex": 297,
@@ -1674,7 +2010,7 @@
       "Shadow Makuhita",
       "Shadow Hariyama"
     ],
-    "updatedAt": 1726064277261
+    "updatedAt": 1726096620871
   },
   {
     "pokedex": 298,
@@ -1685,7 +2021,7 @@
       "Azumarill",
       "Azurill"
     ],
-    "updatedAt": 1726066670884
+    "updatedAt": 1726096621795
   },
   {
     "pokedex": 302,
@@ -1696,17 +2032,17 @@
       "Sableye",
       "Mega Sableye"
     ],
-    "updatedAt": 1726064278545
+    "updatedAt": 1726096622769
   },
   {
     "pokedex": 302,
     "name": "Mega Sableye",
-    "maxCP": 1784,
+    "maxCP": 2196,
     "related": [
       "Sableye",
       "Mega Sableye"
     ],
-    "updatedAt": 1726066671511
+    "updatedAt": 1726096624308
   },
   {
     "pokedex": 307,
@@ -1717,7 +2053,7 @@
       "Medicham",
       "Mega Medicham"
     ],
-    "updatedAt": 1726066672053
+    "updatedAt": 1726096625358
   },
   {
     "pokedex": 308,
@@ -1729,7 +2065,7 @@
       "Medicham",
       "Mega Medicham"
     ],
-    "updatedAt": 1726064280927
+    "updatedAt": 1726096626409
   },
   {
     "pokedex": 308,
@@ -1740,7 +2076,7 @@
       "Medicham",
       "Mega Medicham"
     ],
-    "updatedAt": 1726066672604
+    "updatedAt": 1726096627452
   },
   {
     "pokedex": 316,
@@ -1750,7 +2086,7 @@
       "Gulpin",
       "Swalot"
     ],
-    "updatedAt": 1726066673199
+    "updatedAt": 1726096628356
   },
   {
     "pokedex": 317,
@@ -1761,7 +2097,7 @@
       "Gulpin",
       "Swalot"
     ],
-    "updatedAt": 1726064283695
+    "updatedAt": 1726096629324
   },
   {
     "pokedex": 325,
@@ -1771,7 +2107,7 @@
       "Spoink",
       "Grumpig"
     ],
-    "updatedAt": 1726066674034
+    "updatedAt": 1726096630188
   },
   {
     "pokedex": 326,
@@ -1782,7 +2118,7 @@
       "Spoink",
       "Grumpig"
     ],
-    "updatedAt": 1726064285120
+    "updatedAt": 1726096631060
   },
   {
     "pokedex": 337,
@@ -1792,7 +2128,7 @@
     "related": [
       "Lunatone"
     ],
-    "updatedAt": 1726064285969
+    "updatedAt": 1726096632083
   },
   {
     "pokedex": 341,
@@ -1802,7 +2138,7 @@
       "Corphish",
       "Crawdaunt"
     ],
-    "updatedAt": 1726066674558
+    "updatedAt": 1726096632931
   },
   {
     "pokedex": 342,
@@ -1815,7 +2151,7 @@
       "Corphish",
       "Crawdaunt"
     ],
-    "updatedAt": 1726064287572
+    "updatedAt": 1726096633939
   },
   {
     "pokedex": 345,
@@ -1825,7 +2161,7 @@
       "Shadow Lileep",
       "Shadow Cradily"
     ],
-    "updatedAt": 1726066675096
+    "updatedAt": 1726096634966
   },
   {
     "pokedex": 346,
@@ -1836,7 +2172,7 @@
       "Shadow Lileep",
       "Shadow Cradily"
     ],
-    "updatedAt": 1726066675669
+    "updatedAt": 1726096636096
   },
   {
     "pokedex": 351,
@@ -1846,7 +2182,7 @@
       "Castform"
     ],
     "gl": 1.5,
-    "updatedAt": 1726064290875
+    "updatedAt": 1726096637240
   },
   {
     "pokedex": 352,
@@ -1855,7 +2191,7 @@
     "related": [
       "Kecleon"
     ],
-    "updatedAt": 1726066676293
+    "updatedAt": 1726096638193
   },
   {
     "pokedex": 353,
@@ -1866,7 +2202,7 @@
       "Banette",
       "Mega Banette"
     ],
-    "updatedAt": 1726066676830
+    "updatedAt": 1726096639181
   },
   {
     "pokedex": 354,
@@ -1881,7 +2217,7 @@
       "Banette",
       "Mega Banette"
     ],
-    "updatedAt": 1726064293447
+    "updatedAt": 1726096640384
   },
   {
     "pokedex": 354,
@@ -1893,7 +2229,7 @@
       "Banette",
       "Mega Banette"
     ],
-    "updatedAt": 1726064294177
+    "updatedAt": 1726096641296
   },
   {
     "pokedex": 355,
@@ -1904,7 +2240,7 @@
       "Dusclops",
       "Dusknoir"
     ],
-    "updatedAt": 1726066677312
+    "updatedAt": 1726096642278
   },
   {
     "pokedex": 356,
@@ -1916,7 +2252,7 @@
       "Dusclops",
       "Dusknoir"
     ],
-    "updatedAt": 1726064295558
+    "updatedAt": 1726096643164
   },
   {
     "pokedex": 360,
@@ -1926,7 +2262,7 @@
       "Wobbuffet",
       "Wynaut"
     ],
-    "updatedAt": 1726066677900
+    "updatedAt": 1726096644316
   },
   {
     "pokedex": 424,
@@ -1936,7 +2272,7 @@
       "Aipom",
       "Ambipom"
     ],
-    "updatedAt": 1726066678473
+    "updatedAt": 1726096645324
   },
   {
     "pokedex": 427,
@@ -1947,7 +2283,7 @@
       "Lopunny",
       "Mega Lopunny"
     ],
-    "updatedAt": 1726066679029
+    "updatedAt": 1726096646205
   },
   {
     "pokedex": 428,
@@ -1961,7 +2297,7 @@
       "Lopunny",
       "Mega Lopunny"
     ],
-    "updatedAt": 1726064298283
+    "updatedAt": 1726096647242
   },
   {
     "pokedex": 428,
@@ -1973,7 +2309,7 @@
       "Lopunny",
       "Mega Lopunny"
     ],
-    "updatedAt": 1726064299030
+    "updatedAt": 1726096648197
   },
   {
     "pokedex": 434,
@@ -1983,7 +2319,7 @@
       "Shadow Stunky",
       "Shadow Skuntank"
     ],
-    "updatedAt": 1726066679724
+    "updatedAt": 1726096649174
   },
   {
     "pokedex": 435,
@@ -1996,7 +2332,7 @@
       "Shadow Stunky",
       "Shadow Skuntank"
     ],
-    "updatedAt": 1726064300625
+    "updatedAt": 1726096650274
   },
   {
     "pokedex": 440,
@@ -2007,7 +2343,33 @@
       "Blissey",
       "Happiny"
     ],
-    "updatedAt": 1726066680295
+    "updatedAt": 1726096651352
+  },
+  {
+    "pokedex": 446,
+    "name": "Munchlax",
+    "maxCP": 2139,
+    "related": [
+      "Munchlax",
+      "Snorlax"
+    ],
+    "gl": 3,
+    "ul": 1,
+    "updatedAt": 1726096652317
+  },
+  {
+    "pokedex": 465,
+    "name": "Tangrowth",
+    "maxCP": 3425,
+    "related": [
+      "Tangela",
+      "Tangrowth"
+    ],
+    "tier": "B",
+    "gl": 2,
+    "ul": 2,
+    "ml": 1.5,
+    "updatedAt": 1726096653394
   },
   {
     "pokedex": 469,
@@ -2018,7 +2380,7 @@
       "Yanma",
       "Yanmega"
     ],
-    "updatedAt": 1726064302538
+    "updatedAt": 1726096654479
   },
   {
     "pokedex": 470,
@@ -2038,7 +2400,7 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726064303748
+    "updatedAt": 1726096655580
   },
   {
     "pokedex": 471,
@@ -2059,7 +2421,7 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726064304835
+    "updatedAt": 1726096656691
   },
   {
     "pokedex": 475,
@@ -2077,7 +2439,7 @@
       "Gallade",
       "Mega Gallade"
     ],
-    "updatedAt": 1726064305684
+    "updatedAt": 1726096657712
   },
   {
     "pokedex": 475,
@@ -2091,7 +2453,7 @@
       "Gallade",
       "Mega Gallade"
     ],
-    "updatedAt": 1726066680854
+    "updatedAt": 1726096658688
   },
   {
     "pokedex": 477,
@@ -2104,7 +2466,7 @@
       "Dusclops",
       "Dusknoir"
     ],
-    "updatedAt": 1726064307703
+    "updatedAt": 1726096659674
   },
   {
     "pokedex": 501,
@@ -2116,7 +2478,7 @@
       "Samurott",
       "Hisuian Samurott"
     ],
-    "updatedAt": 1726066681416
+    "updatedAt": 1726096660559
   },
   {
     "pokedex": 502,
@@ -2130,7 +2492,7 @@
       "Samurott",
       "Hisuian Samurott"
     ],
-    "updatedAt": 1726066681976
+    "updatedAt": 1726096663440
   },
   {
     "pokedex": 503,
@@ -2146,7 +2508,7 @@
       "Samurott",
       "Hisuian Samurott"
     ],
-    "updatedAt": 1726064310057
+    "updatedAt": 1726096664457
   },
   {
     "pokedex": 503,
@@ -2159,7 +2521,7 @@
       "Samurott",
       "Hisuian Samurott"
     ],
-    "updatedAt": 1726066682572
+    "updatedAt": 1726096665549
   },
   {
     "pokedex": 504,
@@ -2169,7 +2531,7 @@
       "Patrat",
       "Watchog"
     ],
-    "updatedAt": 1726066683165
+    "updatedAt": 1726096666609
   },
   {
     "pokedex": 505,
@@ -2179,7 +2541,7 @@
       "Patrat",
       "Watchog"
     ],
-    "updatedAt": 1726066683772
+    "updatedAt": 1726096669396
   },
   {
     "pokedex": 506,
@@ -2190,7 +2552,7 @@
       "Herdier",
       "Stoutland"
     ],
-    "updatedAt": 1726066684314
+    "updatedAt": 1726096670368
   },
   {
     "pokedex": 507,
@@ -2202,12 +2564,12 @@
       "Herdier",
       "Stoutland"
     ],
-    "updatedAt": 1726066684860
+    "updatedAt": 1726096671664
   },
   {
     "pokedex": 508,
     "name": "Stoutland",
-    "maxCP": 2848,
+    "maxCP": 3196,
     "gl": 2,
     "ul": 2.5,
     "missing": true,
@@ -2216,7 +2578,7 @@
       "Herdier",
       "Stoutland"
     ],
-    "updatedAt": 1726064315121
+    "updatedAt": 1726096672939
   },
   {
     "pokedex": 509,
@@ -2226,7 +2588,7 @@
       "Purrloin",
       "Liepard"
     ],
-    "updatedAt": 1726066685398
+    "updatedAt": 1726096673794
   },
   {
     "pokedex": 510,
@@ -2240,7 +2602,7 @@
       "Purrloin",
       "Liepard"
     ],
-    "updatedAt": 1726064316628
+    "updatedAt": 1726096674774
   },
   {
     "pokedex": 517,
@@ -2251,7 +2613,7 @@
       "Munna",
       "Musharna"
     ],
-    "updatedAt": 1726066686053
+    "updatedAt": 1726096675758
   },
   {
     "pokedex": 518,
@@ -2264,7 +2626,7 @@
       "Munna",
       "Musharna"
     ],
-    "updatedAt": 1726064318207
+    "updatedAt": 1726096676769
   },
   {
     "pokedex": 519,
@@ -2275,7 +2637,7 @@
       "Tranquill",
       "Unfezant"
     ],
-    "updatedAt": 1726066686614
+    "updatedAt": 1726096677714
   },
   {
     "pokedex": 520,
@@ -2287,7 +2649,7 @@
       "Tranquill",
       "Unfezant"
     ],
-    "updatedAt": 1726066687314
+    "updatedAt": 1726096678658
   },
   {
     "pokedex": 521,
@@ -2301,7 +2663,7 @@
       "Tranquill",
       "Unfezant"
     ],
-    "updatedAt": 1726064320285
+    "updatedAt": 1726096679595
   },
   {
     "pokedex": 522,
@@ -2311,7 +2673,7 @@
       "Blitzle",
       "Zebstrika"
     ],
-    "updatedAt": 1726066687960
+    "updatedAt": 1726096680500
   },
   {
     "pokedex": 523,
@@ -2324,7 +2686,7 @@
       "Blitzle",
       "Zebstrika"
     ],
-    "updatedAt": 1726064321630
+    "updatedAt": 1726096681738
   },
   {
     "pokedex": 524,
@@ -2336,7 +2698,7 @@
       "Boldore",
       "Gigalith"
     ],
-    "updatedAt": 1726066688524
+    "updatedAt": 1726096682926
   },
   {
     "pokedex": 525,
@@ -2347,7 +2709,7 @@
       "Boldore",
       "Gigalith"
     ],
-    "updatedAt": 1726066689092
+    "updatedAt": 1726096684279
   },
   {
     "pokedex": 526,
@@ -2362,7 +2724,7 @@
       "Boldore",
       "Gigalith"
     ],
-    "updatedAt": 1726064323877
+    "updatedAt": 1726096685744
   },
   {
     "pokedex": 527,
@@ -2372,7 +2734,7 @@
       "Woobat",
       "Swoobat"
     ],
-    "updatedAt": 1726066689732
+    "updatedAt": 1726096686772
   },
   {
     "pokedex": 528,
@@ -2384,7 +2746,7 @@
       "Swoobat"
     ],
     "gl": 2.5,
-    "updatedAt": 1726064325447
+    "updatedAt": 1726096687903
   },
   {
     "pokedex": 531,
@@ -2394,7 +2756,7 @@
       "Audino",
       "Mega Audino"
     ],
-    "updatedAt": 1726066690377
+    "updatedAt": 1726096688943
   },
   {
     "pokedex": 531,
@@ -2404,7 +2766,7 @@
       "Audino",
       "Mega Audino"
     ],
-    "updatedAt": 1726066691025
+    "updatedAt": 1726096690241
   },
   {
     "pokedex": 538,
@@ -2413,7 +2775,7 @@
     "related": [
       "Throh"
     ],
-    "updatedAt": 1726066691650
+    "updatedAt": 1726096691313
   },
   {
     "pokedex": 543,
@@ -2424,7 +2786,7 @@
       "Whirlipede",
       "Scolipede"
     ],
-    "updatedAt": 1726066692213
+    "updatedAt": 1726096692235
   },
   {
     "pokedex": 544,
@@ -2436,12 +2798,12 @@
       "Whirlipede",
       "Scolipede"
     ],
-    "updatedAt": 1726066692803
+    "updatedAt": 1726096693204
   },
   {
     "pokedex": 545,
     "name": "Scolipede",
-    "maxCP": 2528,
+    "maxCP": 2766,
     "gl": 2.5,
     "ul": 1.5,
     "missing": true,
@@ -2450,7 +2812,7 @@
       "Whirlipede",
       "Scolipede"
     ],
-    "updatedAt": 1726064330543
+    "updatedAt": 1726096694375
   },
   {
     "pokedex": 550,
@@ -2459,7 +2821,7 @@
     "related": [
       "Basculin"
     ],
-    "updatedAt": 1726066693310
+    "updatedAt": 1726096695376
   },
   {
     "pokedex": 556,
@@ -2468,7 +2830,7 @@
     "related": [
       "Maractus"
     ],
-    "updatedAt": 1726066693911
+    "updatedAt": 1726096696446
   },
   {
     "pokedex": 618,
@@ -2479,7 +2841,7 @@
     "related": [
       "Stunfisk"
     ],
-    "updatedAt": 1726064332613
+    "updatedAt": 1726096697545
   },
   {
     "pokedex": 632,
@@ -2491,7 +2853,7 @@
     "related": [
       "Durant"
     ],
-    "updatedAt": 1726064333421
+    "updatedAt": 1726096698659
   },
   {
     "pokedex": 638,
@@ -2505,7 +2867,7 @@
       "Cobalion"
     ],
     "ml": 2,
-    "updatedAt": 1726064335004
+    "updatedAt": 1726096700013
   },
   {
     "pokedex": 661,
@@ -2517,7 +2879,7 @@
       "Fletchinder",
       "Talonflame"
     ],
-    "updatedAt": 1726066694492
+    "updatedAt": 1726096701789
   },
   {
     "pokedex": 662,
@@ -2528,7 +2890,7 @@
       "Fletchinder",
       "Talonflame"
     ],
-    "updatedAt": 1726066695083
+    "updatedAt": 1726096702782
   },
   {
     "pokedex": 663,
@@ -2541,7 +2903,7 @@
       "Fletchinder",
       "Talonflame"
     ],
-    "updatedAt": 1726064337445
+    "updatedAt": 1726096705004
   },
   {
     "pokedex": 676,
@@ -2552,7 +2914,7 @@
     "related": [
       "Furfrou"
     ],
-    "updatedAt": 1726064338165
+    "updatedAt": 1726096706372
   },
   {
     "pokedex": 700,
@@ -2573,7 +2935,7 @@
       "Glaceon",
       "Sylveon"
     ],
-    "updatedAt": 1726064339070
+    "updatedAt": 1726096708464
   },
   {
     "pokedex": 702,
@@ -2583,7 +2945,7 @@
     "related": [
       "Dedenne"
     ],
-    "updatedAt": 1726064339950
+    "updatedAt": 1726096709629
   },
   {
     "pokedex": 703,
@@ -2595,7 +2957,7 @@
     "related": [
       "Carbink"
     ],
-    "updatedAt": 1726064340683
+    "updatedAt": 1726096710676
   },
   {
     "pokedex": 728,
@@ -2606,7 +2968,7 @@
       "Brionne",
       "Primarina"
     ],
-    "updatedAt": 1726066695726
+    "updatedAt": 1726096711885
   },
   {
     "pokedex": 729,
@@ -2617,7 +2979,7 @@
       "Brionne",
       "Primarina"
     ],
-    "updatedAt": 1726066696310
+    "updatedAt": 1726096712925
   },
   {
     "pokedex": 730,
@@ -2632,16 +2994,16 @@
       "Primarina"
     ],
     "tier": "B",
-    "updatedAt": 1726064343958
+    "updatedAt": 1726096714117
   },
   {
     "pokedex": 741,
     "name": "Oricorio",
-    "maxCP": 2638,
+    "maxCP": 0,
     "related": [
       "Oricorio"
     ],
-    "updatedAt": 1726066696618
+    "updatedAt": 1726096714562
   },
   {
     "pokedex": 755,
@@ -2651,7 +3013,7 @@
       "Morelull",
       "Shiinotic"
     ],
-    "updatedAt": 1726066697182
+    "updatedAt": 1726096715720
   },
   {
     "pokedex": 756,
@@ -2661,7 +3023,7 @@
       "Morelull",
       "Shiinotic"
     ],
-    "updatedAt": 1726066698124
+    "updatedAt": 1726096716892
   },
   {
     "pokedex": 777,
@@ -2672,7 +3034,7 @@
     "related": [
       "Togedemaru"
     ],
-    "updatedAt": 1726064346740
+    "updatedAt": 1726096718129
   },
   {
     "pokedex": 819,
@@ -2682,7 +3044,7 @@
       "Skwovet",
       "Greedent"
     ],
-    "updatedAt": 1726066698932
+    "updatedAt": 1726096719231
   },
   {
     "pokedex": 820,
@@ -2694,7 +3056,7 @@
       "Skwovet",
       "Greedent"
     ],
-    "updatedAt": 1726064348651
+    "updatedAt": 1726096720259
   },
   {
     "pokedex": 863,
@@ -2706,7 +3068,21 @@
       "Galarian Meowth",
       "Perrserker"
     ],
-    "updatedAt": 1726064349542
+    "updatedAt": 1726096721407
+  },
+  {
+    "pokedex": 901,
+    "name": "Ursaluna",
+    "maxCP": 4358,
+    "related": [
+      "Teddiursa",
+      "Ursaring",
+      "Ursaluna"
+    ],
+    "gl": 1,
+    "ul": 2,
+    "ml": 3.5,
+    "updatedAt": 1726096722630
   },
   {
     "pokedex": 979,
@@ -2720,6 +3096,6 @@
       "Primeape",
       "Annihilape"
     ],
-    "updatedAt": 1726064350360
+    "updatedAt": 1726096724186
   }
 ]
