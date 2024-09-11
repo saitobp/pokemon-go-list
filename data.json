@@ -49,6 +49,67 @@
     "updatedAt": 1726096495159
   },
   {
+    "pokedex": 5,
+    "name": "Charmeleon",
+    "related": [
+      "Charmander",
+      "Charmeleon",
+      "Charizard"
+    ],
+    "maxCP": 1868,
+    "updatedAt": 1726097857770
+  },
+  {
+    "pokedex": 6,
+    "name": "Charizard",
+    "related": [
+      "Charmander",
+      "Charmeleon",
+      "Charizard"
+    ],
+    "maxCP": 3266,
+    "tier": "C",
+    "gl": 3,
+    "ul": 3,
+    "ml": 2,
+    "updatedAt": 1726097858220
+  },
+  {
+    "pokedex": 7,
+    "name": "Squirtle",
+    "related": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise"
+    ],
+    "maxCP": 1069,
+    "updatedAt": 1726097858718
+  },
+  {
+    "pokedex": 8,
+    "name": "Wartortle",
+    "related": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise"
+    ],
+    "maxCP": 1682,
+    "updatedAt": 1726097859217
+  },
+  {
+    "pokedex": 9,
+    "name": "Blastoise",
+    "related": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise"
+    ],
+    "maxCP": 2788,
+    "gl": 3,
+    "ul": 4,
+    "updatedAt": 1726097859986
+  },
+  {
     "pokedex": 10,
     "name": "Caterpie",
     "maxCP": 494,
@@ -81,6 +142,40 @@
     ],
     "gl": 1,
     "updatedAt": 1726096497023
+  },
+  {
+    "pokedex": 13,
+    "name": "Weedle",
+    "related": [
+      "Weedle",
+      "Kakuna",
+      "Beedrill"
+    ],
+    "maxCP": 515,
+    "updatedAt": 1726097860426
+  },
+  {
+    "pokedex": 14,
+    "name": "Kakuna",
+    "related": [
+      "Weedle",
+      "Kakuna",
+      "Beedrill"
+    ],
+    "maxCP": 488,
+    "updatedAt": 1726097860974
+  },
+  {
+    "pokedex": 15,
+    "name": "Beedrill",
+    "related": [
+      "Weedle",
+      "Kakuna",
+      "Beedrill"
+    ],
+    "maxCP": 2087,
+    "gl": 3,
+    "updatedAt": 1726097861646
   },
   {
     "pokedex": 16,
@@ -196,6 +291,30 @@
     "updatedAt": 1726096502495
   },
   {
+    "pokedex": 25,
+    "name": "Pikachu",
+    "related": [
+      "Pikachu",
+      "Raichu",
+      "Pichu"
+    ],
+    "maxCP": 1060,
+    "updatedAt": 1726097862142
+  },
+  {
+    "pokedex": 26,
+    "name": "Raichu",
+    "related": [
+      "Pikachu",
+      "Raichu",
+      "Pichu"
+    ],
+    "maxCP": 2467,
+    "gl": 2.5,
+    "ul": 1,
+    "updatedAt": 1726097863103
+  },
+  {
     "pokedex": 27,
     "name": "Sandshrew",
     "maxCP": 1426,
@@ -252,6 +371,85 @@
     "gl": 3.5,
     "ul": 3.5,
     "updatedAt": 1726096505318
+  },
+  {
+    "pokedex": 32,
+    "name": "Nidoran♂",
+    "related": [
+      "Nidoran♂",
+      "Nidorino",
+      "Nidoking"
+    ],
+    "maxCP": 973,
+    "updatedAt": 1726097863573
+  },
+  {
+    "pokedex": 33,
+    "name": "Nidorino",
+    "related": [
+      "Nidoran♂",
+      "Nidorino",
+      "Nidoking"
+    ],
+    "maxCP": 1575,
+    "updatedAt": 1726097864019
+  },
+  {
+    "pokedex": 34,
+    "name": "Nidoking",
+    "related": [
+      "Nidoran♂",
+      "Nidorino",
+      "Nidoking"
+    ],
+    "maxCP": 2902,
+    "gl": 2,
+    "ul": 2,
+    "updatedAt": 1726097864541
+  },
+  {
+    "pokedex": 35,
+    "name": "Clefairy",
+    "related": [
+      "Clefairy",
+      "Clefable"
+    ],
+    "maxCP": 1306,
+    "updatedAt": 1726097865020
+  },
+  {
+    "pokedex": 36,
+    "name": "Clefable",
+    "related": [
+      "Clefairy",
+      "Clefable"
+    ],
+    "maxCP": 2755,
+    "gl": 3.5,
+    "ul": 4,
+    "updatedAt": 1726097865555
+  },
+  {
+    "pokedex": 37,
+    "name": "Vulpix",
+    "related": [
+      "Vulpix",
+      "Ninetales"
+    ],
+    "maxCP": 998,
+    "updatedAt": 1726097866251
+  },
+  {
+    "pokedex": 38,
+    "name": "Ninetales",
+    "related": [
+      "Vulpix",
+      "Ninetales"
+    ],
+    "maxCP": 2577,
+    "gl": 2.5,
+    "ul": 2.5,
+    "updatedAt": 1726097866818
   },
   {
     "pokedex": 39,
@@ -415,6 +613,27 @@
     "updatedAt": 1726096514570
   },
   {
+    "pokedex": 50,
+    "name": "Diglett",
+    "related": [
+      "Diglett",
+      "Dugtrio"
+    ],
+    "maxCP": 764,
+    "updatedAt": 1726097867321
+  },
+  {
+    "pokedex": 51,
+    "name": "Dugtrio",
+    "related": [
+      "Diglett",
+      "Dugtrio"
+    ],
+    "maxCP": 1772,
+    "gl": 1,
+    "updatedAt": 1726097868219
+  },
+  {
     "pokedex": 52,
     "name": "Meowth",
     "maxCP": 846,
@@ -445,6 +664,28 @@
       "Perrserker"
     ],
     "updatedAt": 1726096516443
+  },
+  {
+    "pokedex": 54,
+    "name": "Psyduck",
+    "related": [
+      "Psyduck",
+      "Golduck"
+    ],
+    "maxCP": 1250,
+    "updatedAt": 1726097868771
+  },
+  {
+    "pokedex": 55,
+    "name": "Golduck",
+    "related": [
+      "Psyduck",
+      "Golduck"
+    ],
+    "maxCP": 2770,
+    "gl": 1.5,
+    "ul": 1,
+    "updatedAt": 1726097869381
   },
   {
     "pokedex": 56,
@@ -494,6 +735,44 @@
       "Arcanine"
     ],
     "updatedAt": 1726096519388
+  },
+  {
+    "pokedex": 60,
+    "name": "Poliwag",
+    "related": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath",
+      "Politoed"
+    ],
+    "maxCP": 937,
+    "updatedAt": 1726097869875
+  },
+  {
+    "pokedex": 61,
+    "name": "Poliwhirl",
+    "related": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath",
+      "Politoed"
+    ],
+    "maxCP": 1604,
+    "updatedAt": 1726097870378
+  },
+  {
+    "pokedex": 62,
+    "name": "Poliwrath",
+    "related": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath",
+      "Politoed"
+    ],
+    "maxCP": 2923,
+    "gl": 3.5,
+    "ul": 3.5,
+    "updatedAt": 1726097871307
   },
   {
     "pokedex": 63,
@@ -626,6 +905,28 @@
     "updatedAt": 1726096525886
   },
   {
+    "pokedex": 72,
+    "name": "Tentacool",
+    "related": [
+      "Tentacool",
+      "Tentacruel"
+    ],
+    "maxCP": 1176,
+    "updatedAt": 1726097871867
+  },
+  {
+    "pokedex": 73,
+    "name": "Tentacruel",
+    "related": [
+      "Tentacool",
+      "Tentacruel"
+    ],
+    "maxCP": 2738,
+    "gl": 3,
+    "ul": 3,
+    "updatedAt": 1726097872508
+  },
+  {
     "pokedex": 74,
     "name": "Geodude",
     "maxCP": 1462,
@@ -724,6 +1025,83 @@
     "updatedAt": 1726096532681
   },
   {
+    "pokedex": 81,
+    "name": "Magnemite",
+    "maxCP": 1540,
+    "related": [
+      "Magnemite",
+      "Magneton",
+      "Magnezone"
+    ],
+    "updatedAt": 1726097873125
+  },
+  {
+    "pokedex": 82,
+    "name": "Magneton",
+    "related": [
+      "Magnemite",
+      "Magneton",
+      "Magnezone"
+    ],
+    "maxCP": 2810,
+    "gl": 3,
+    "ul": 2,
+    "updatedAt": 1726097873680
+  },
+  {
+    "pokedex": 83,
+    "name": "Farfetch'd",
+    "related": [
+      "Farfetch'd",
+      "Sirfetch'd"
+    ],
+    "maxCP": 0,
+    "updatedAt": 1726097874084
+  },
+  {
+    "pokedex": 84,
+    "name": "Doduo",
+    "maxCP": 1357,
+    "related": [
+      "Doduo",
+      "Dodrio"
+    ],
+    "updatedAt": 1726097874555
+  },
+  {
+    "pokedex": 85,
+    "name": "Dodrio",
+    "maxCP": 2670,
+    "related": [
+      "Doduo",
+      "Dodrio"
+    ],
+    "gl": 1,
+    "updatedAt": 1726097875092
+  },
+  {
+    "pokedex": 86,
+    "name": "Seel",
+    "maxCP": 1098,
+    "related": [
+      "Seel",
+      "Dewgong"
+    ],
+    "updatedAt": 1726097875718
+  },
+  {
+    "pokedex": 87,
+    "name": "Dewgong",
+    "maxCP": 2245,
+    "related": [
+      "Seel",
+      "Dewgong"
+    ],
+    "gl": 4,
+    "ul": 2,
+    "updatedAt": 1726097876295
+  },
+  {
     "pokedex": 88,
     "name": "Grimer",
     "maxCP": 1553,
@@ -744,6 +1122,28 @@
       "Muk"
     ],
     "updatedAt": 1726096534120
+  },
+  {
+    "pokedex": 90,
+    "name": "Shellder",
+    "maxCP": 1221,
+    "related": [
+      "Shellder",
+      "Cloyster"
+    ],
+    "updatedAt": 1726097876926
+  },
+  {
+    "pokedex": 91,
+    "name": "Cloyster",
+    "maxCP": 2880,
+    "related": [
+      "Shellder",
+      "Cloyster"
+    ],
+    "gl": 2,
+    "ul": 3,
+    "updatedAt": 1726097877464
   },
   {
     "pokedex": 92,
@@ -810,6 +1210,50 @@
       "Mega Steelix"
     ],
     "updatedAt": 1726096538173
+  },
+  {
+    "pokedex": 96,
+    "name": "Drowzee",
+    "maxCP": 1176,
+    "related": [
+      "Drowzee",
+      "Hypno"
+    ],
+    "updatedAt": 1726097878088
+  },
+  {
+    "pokedex": 97,
+    "name": "Hypno",
+    "maxCP": 2363,
+    "related": [
+      "Drowzee",
+      "Hypno"
+    ],
+    "gl": 3.5,
+    "ul": 1,
+    "updatedAt": 1726097878961
+  },
+  {
+    "pokedex": 98,
+    "name": "Krabby",
+    "maxCP": 1764,
+    "related": [
+      "Krabby",
+      "Kingler"
+    ],
+    "updatedAt": 1726097879852
+  },
+  {
+    "pokedex": 99,
+    "name": "Kingler",
+    "maxCP": 3198,
+    "related": [
+      "Krabby",
+      "Kingler"
+    ],
+    "tier": "B+",
+    "gl": 1,
+    "updatedAt": 1726097880421
   },
   {
     "pokedex": 100,
@@ -900,6 +1344,27 @@
     "updatedAt": 1726096543089
   },
   {
+    "pokedex": 104,
+    "name": "Cubone",
+    "maxCP": 1152,
+    "related": [
+      "Cubone",
+      "Marowak"
+    ],
+    "updatedAt": 1726097880972
+  },
+  {
+    "pokedex": 105,
+    "name": "Marowak",
+    "maxCP": 2075,
+    "related": [
+      "Cubone",
+      "Marowak"
+    ],
+    "gl": 4,
+    "updatedAt": 1726097881663
+  },
+  {
     "pokedex": 106,
     "name": "Hitmonlee",
     "maxCP": 2912,
@@ -927,6 +1392,17 @@
     "updatedAt": 1726096544320
   },
   {
+    "pokedex": 108,
+    "name": "Lickitung",
+    "maxCP": 1595,
+    "related": [
+      "Lickitung",
+      "Lickilicky"
+    ],
+    "gl": 4,
+    "updatedAt": 1726097882237
+  },
+  {
     "pokedex": 109,
     "name": "Koffing",
     "maxCP": 1373,
@@ -947,6 +1423,28 @@
       "Weezing"
     ],
     "updatedAt": 1726096545586
+  },
+  {
+    "pokedex": 111,
+    "name": "Rhyhorn",
+    "maxCP": 1867,
+    "related": [
+      "Rhyhorn",
+      "Rhydon",
+      "Rhyperior"
+    ],
+    "updatedAt": 1726097882779
+  },
+  {
+    "pokedex": 112,
+    "name": "Rhydon",
+    "maxCP": 3594,
+    "related": [
+      "Rhyhorn",
+      "Rhydon",
+      "Rhyperior"
+    ],
+    "updatedAt": 1726097883412
   },
   {
     "pokedex": 113,
@@ -971,6 +1469,103 @@
     "gl": 2.5,
     "ul": 1,
     "updatedAt": 1726096547083
+  },
+  {
+    "pokedex": 115,
+    "name": "Kangaskhan",
+    "maxCP": 2924,
+    "related": [
+      "Kangaskhan"
+    ],
+    "gl": 3,
+    "ul": 3,
+    "updatedAt": 1726097884003
+  },
+  {
+    "pokedex": 116,
+    "name": "Horsea",
+    "maxCP": 1194,
+    "related": [
+      "Horsea",
+      "Seadra",
+      "Kingdra"
+    ],
+    "updatedAt": 1726097884541
+  },
+  {
+    "pokedex": 117,
+    "name": "Seadra",
+    "maxCP": 2366,
+    "related": [
+      "Horsea",
+      "Seadra",
+      "Kingdra"
+    ],
+    "updatedAt": 1726097885054
+  },
+  {
+    "pokedex": 118,
+    "name": "Goldeen",
+    "maxCP": 1302,
+    "related": [
+      "Goldeen",
+      "Seaking"
+    ],
+    "updatedAt": 1726097885585
+  },
+  {
+    "pokedex": 119,
+    "name": "Seaking",
+    "maxCP": 2444,
+    "related": [
+      "Goldeen",
+      "Seaking"
+    ],
+    "gl": 2,
+    "ul": 1,
+    "updatedAt": 1726097886238
+  },
+  {
+    "pokedex": 120,
+    "name": "Staryu",
+    "maxCP": 1308,
+    "related": [
+      "Staryu",
+      "Starmie"
+    ],
+    "updatedAt": 1726097886840
+  },
+  {
+    "pokedex": 121,
+    "name": "Starmie",
+    "maxCP": 2922,
+    "related": [
+      "Staryu",
+      "Starmie"
+    ],
+    "updatedAt": 1726097887652
+  },
+  {
+    "pokedex": 122,
+    "name": "Mr. Mime",
+    "maxCP": 0,
+    "related": [
+      "Mr Mime",
+      "Mine Jr"
+    ],
+    "updatedAt": 1726097888025
+  },
+  {
+    "pokedex": 123,
+    "name": "Scyther",
+    "maxCP": 3060,
+    "related": [
+      "Scyther",
+      "Scizor"
+    ],
+    "gl": 1.5,
+    "ul": 1.5,
+    "updatedAt": 1726097888746
   },
   {
     "pokedex": 132,
