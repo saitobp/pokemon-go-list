@@ -3829,6 +3829,10 @@
     "name": "Simisear",
     "maxCP": 2657,
     "gl": 1,
+    "related": [
+      "Pansear",
+      "Simisear"
+    ],
     "updatedAt": 1726160092066
   },
   {
