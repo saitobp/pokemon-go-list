@@ -1568,6 +1568,78 @@
     "updatedAt": 1726097888746
   },
   {
+    "pokedex": 124,
+    "name": "Jynx",
+    "maxCP": 2512,
+    "related": [
+      "Jynx",
+      "Smoochum"
+    ]
+  },
+  {
+    "pokedex": 125,
+    "name": "Electabuzz",
+    "maxCP": 2900,
+    "related": [
+      "Electabuzz",
+      "Electivire",
+      "Elekid"
+    ]
+  },
+  {
+    "pokedex": 126,
+    "name": "Magmar",
+    "maxCP": 2980,
+    "related": [
+      "Magmar",
+      "Magmortar",
+      "Magby"
+    ]
+  },
+  {
+    "pokedex": 127,
+    "name": "Pinsir",
+    "maxCP": 2959,
+    "related": [
+      "Pinsir",
+      "Mega Pinsir"
+    ]
+  },
+  {
+    "pokedex": 128,
+    "name": "Tauros",
+    "maxCP": 2754,
+    "related": [
+      "Tauros"
+    ]
+  },
+  {
+    "pokedex": 129,
+    "name": "Magikarp",
+    "maxCP": 274,
+    "related": [
+      "Magikarp",
+      "Gyarados"
+    ]
+  },
+  {
+    "pokedex": 130,
+    "name": "Gyarados",
+    "maxCP": 4359,
+    "related": [
+      "Magikarp",
+      "Gyarados"
+    ]
+  },
+  {
+    "pokedex": 131,
+    "name": "Lapras",
+    "maxCP": 2603,
+    "related": [
+      "Lapras"
+    ]
+  },
+  {
     "pokedex": 132,
     "name": "Ditto",
     "maxCP": 940,
@@ -2197,7 +2269,7 @@
     "pokedex": 217,
     "name": "Ursaring",
     "maxCP": 3329,
-    "relted": [
+    "related": [
       "Teddiursa",
       "Ursaring",
       "Ursaluna"
